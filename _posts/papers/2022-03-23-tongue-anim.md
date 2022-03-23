@@ -32,7 +32,7 @@ bibtex: |-
 
   @inproceedings{medina2022speechtongue,
     title={Speech Driven Tongue Animation},
-    author={Medina, Salvador and Tomé, Denis and Stoll, Carsten and Tiede, Mark and Munhall, Kevin and Hauptmann, Alex and Matthews, Iain},
+    author={Medina, Salvador and Tome, Denis and Stoll, Carsten and Tiede, Mark and Munhall, Kevin and Hauptmann, Alex and Matthews, Iain},
     booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
     year={2022},
     organization={IEEE/CVF}
@@ -45,3 +45,4 @@ Performance or motion capture of the tongue and jaw from video alone is difficul
 In this work, we collected a large-scale speech to tongue mocap dataset that focuses on capturing tongue, jaw, and lip motion during speech . This dataset enables research on data-driven techniques for realistic inner mouth animation. We present a method that leverages recent deep-learning based audio feature representations to build a robust and generalizable speech to animation pipeline.
 
 We find that self-supervised deep learning based audio feature encoders are robust and generalize well to unseen speakers and content. To demonstrate the practical application of our approach, we show animations on a high-quality parametric 3D face model driven by the landmarks generated from our speech-to-tongue animation method.
+
