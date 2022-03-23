@@ -6,9 +6,9 @@ jsarr:
 - js/scripts.js
 ---
 
-<h1 id="cv-title"><a href="{{ site.url }}">Fred Hohman</a></h1>
+<h1 id="cv-title"><a href="{{ site.url }}">Salvador Medina</a></h1>
 
-<p id="cv-subtitle"><i>Research Scientist (<span class="cv-ai">ML</span> + <span class="cv-vis">HCI</span>)</i></p>
+<p id="cv-subtitle"><i>PhD Student (<span class="cv-ai">ML</span> + <span class="cv-vis">Animation</span>)</i></p>
 
 <!-- <div id="cv-toc">
 <ul class="cv-description">

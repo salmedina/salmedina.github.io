@@ -1,0 +1,193 @@
+I"m<p>Things I think about, read, and write.</p>
+
+<div class="posts">
+  
+  <article class="post">
+    <h2 class="post-title">
+      <a href="/blog/2016-year-in-review">
+        2016 Year In Review
+      </a>
+    </h2>
+
+    <time datetime="December 31, 2016" class="post-date">December 31, 2016</time>
+
+    <p>2016 hasn’t been the best year to the world. But between finishing the first year of my Ph.D., living in the Pacific Northwest this summer, and passing qualifying exams, I tried to make the most of the tumultuous year.</p>
+
+
+  </article>
+  
+  <article class="post">
+    <h2 class="post-title">
+      <a href="/blog/pacific-northwest-summer-photos">
+        Pacific Northwest Summer Photos
+      </a>
+    </h2>
+
+    <time datetime="September 1, 2016" class="post-date">September 1, 2016</time>
+
+    <p>I spent my <a href="http://localhost:4000/blog/summer-internship-at-pnnl" title="Summer 2016 Internship.">summer working at Pacific Northwest National Lab</a>, but also made some time to get outside and explore more of the west coast. My trips included a few hikes, Los Angeles for my birthday, Portland, Seattle, the B Reactor, LIGO, and KDD 2016 in San Francisco.</p>
+
+
+  </article>
+  
+  <article class="post">
+    <h2 class="post-title">
+      <a href="/blog/summer-internship-at-pnnl">
+        Summer Internship at PNNL
+      </a>
+    </h2>
+
+    <time datetime="May 31, 2016" class="post-date">May 31, 2016</time>
+
+    <p>This summer I’ll be an <a href="http://science-ed.pnnl.gov/default.aspx?topic=National_Security_Internship_Program_(NSIP)" title="National Security Internship Program.">NSIP Ph.D. intern</a> at Pacific Northwest National Lab working in the Data Sciences &amp; Analytics (DSA) group.</p>
+
+
+  </article>
+  
+  <article class="post">
+    <h2 class="post-title">
+      <a href="/blog/phd-year-i-the-switch">
+        Ph.D. Year I: The Switch
+      </a>
+    </h2>
+
+    <time datetime="May 25, 2016" class="post-date">May 25, 2016</time>
+
+    <p>As my first year of graduate school comes to a close, I spent some time reflecting on my experiences over the past year.</p>
+
+
+  </article>
+  
+  <article class="post">
+    <h2 class="post-title">
+      <a href="/blog/journaling-in-graduate-school">
+        Journaling in Graduate School
+      </a>
+    </h2>
+
+    <time datetime="January 22, 2016" class="post-date">January 22, 2016</time>
+
+    <p>How I started a daily journal to document every day of my graduate career and why I think journaling in general is a good idea.</p>
+
+
+  </article>
+  
+</div>
+
+<hr />
+
+<h1>Blog Archive</h1>
+<div>
+  
+  <article class="post" style="margin-bottom:1.25em;">
+    <h3 class="post-title">
+      <a href="/blog/2016-year-in-review">
+        2016 Year In Review
+      </a>
+    </h3>
+    <time datetime="December 31, 2016" class="post-date">
+      December 31, 2016
+    </time>
+  </article>
+  
+  <article class="post" style="margin-bottom:1.25em;">
+    <h3 class="post-title">
+      <a href="/blog/pacific-northwest-summer-photos">
+        Pacific Northwest Summer Photos
+      </a>
+    </h3>
+    <time datetime="September 1, 2016" class="post-date">
+      September 1, 2016
+    </time>
+  </article>
+  
+  <article class="post" style="margin-bottom:1.25em;">
+    <h3 class="post-title">
+      <a href="/blog/summer-internship-at-pnnl">
+        Summer Internship at PNNL
+      </a>
+    </h3>
+    <time datetime="May 31, 2016" class="post-date">
+      May 31, 2016
+    </time>
+  </article>
+  
+  <article class="post" style="margin-bottom:1.25em;">
+    <h3 class="post-title">
+      <a href="/blog/phd-year-i-the-switch">
+        Ph.D. Year I: The Switch
+      </a>
+    </h3>
+    <time datetime="May 25, 2016" class="post-date">
+      May 25, 2016
+    </time>
+  </article>
+  
+  <article class="post" style="margin-bottom:1.25em;">
+    <h3 class="post-title">
+      <a href="/blog/journaling-in-graduate-school">
+        Journaling in Graduate School
+      </a>
+    </h3>
+    <time datetime="January 22, 2016" class="post-date">
+      January 22, 2016
+    </time>
+  </article>
+  
+  <article class="post" style="margin-bottom:1.25em;">
+    <h3 class="post-title">
+      <a href="/blog/2015-year-in-review">
+        2015 Year In Review
+      </a>
+    </h3>
+    <time datetime="December 24, 2015" class="post-date">
+      December 24, 2015
+    </time>
+  </article>
+  
+  <article class="post" style="margin-bottom:1.25em;">
+    <h3 class="post-title">
+      <a href="/blog/3d-printing-in-topology">
+        3D Printing in Topology
+      </a>
+    </h3>
+    <time datetime="September 14, 2015" class="post-date">
+      September 14, 2015
+    </time>
+  </article>
+  
+  <article class="post" style="margin-bottom:1.25em;">
+    <h3 class="post-title">
+      <a href="/blog/georgia-tech-gigabit-internet">
+        Georgia Tech Gigabit Internet
+      </a>
+    </h3>
+    <time datetime="September 7, 2015" class="post-date">
+      September 7, 2015
+    </time>
+  </article>
+  
+  <article class="post" style="margin-bottom:1.25em;">
+    <h3 class="post-title">
+      <a href="/blog/cse-10-year-anniversary">
+        GT CSE 10 Year Anniversary
+      </a>
+    </h3>
+    <time datetime="August 30, 2015" class="post-date">
+      August 30, 2015
+    </time>
+  </article>
+  
+  <article class="post" style="margin-bottom:1.25em;">
+    <h3 class="post-title">
+      <a href="/blog/hello-world">
+        Hello, World
+      </a>
+    </h3>
+    <time datetime="August 22, 2015" class="post-date">
+      August 22, 2015
+    </time>
+  </article>
+  
+</div>
+:ET

@@ -1,0 +1,45 @@
+I"X<p>As my first year of graduate school comes to a close, I spent some time reflecting on my experiences over the past year.</p>
+
+<!--more-->
+
+<h2 id="i-survived">I Survived</h2>
+
+<p>Computational Science &amp; Engineering (CSE) at Georgia Tech, the smallest school in the College of Computing, has a great environment for its Ph.D. students and offers courses that are exploding with popularity all throughout Georgia Tech. But a Ph.D. isn’t about taking more classes. A Ph.D. is an apprenticeship with a focus on producing new (and hopefully exciting!) research.</p>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="en"><p lang="en" dir="ltr">PhD Year I: done.</p>&mdash; Fred Hohman (@fredhohman) <a href="https://twitter.com/fredhohman/status/728667114047995904">May 6, 2016</a></blockquote>
+<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<p>During my first year, I’ve been working in the field of materials informatics: a new field that uses the power of data science techniques to better solve problems in materials science. A year ago this seemed like a good fit considering my background in math, physics, and interest in data. Over the past two semesters I contributed to a handful of related projects, including bypassing expensive simulations by building a <a href="http://fredhohman.com/projects/material-informatics-grain-growth" title="Materials Informatics Grain Growth Project.">surrogate model for material grain growth</a>, contributing to the open-source materials informatics python package <a href="http://www.pymks.org" title="PyMKS.">PyMKS</a> developed within the research group, and applying informatics approaches to advanced materials in the <a href="http://www.darpa.mil/program/materials-development-for-platforms" title="Materials Development for Platforms.">Materials Development Program</a> funded by DARPA. Throughout these projects I’ve worked hard and met wonderful and intelligent people, but as time went on my interest began to fade.</p>
+
+<p>So after much thinking and discussion<sup id="fnref:fn-discussion" role="doc-noteref"><a href="#fn:fn-discussion" class="footnote" rel="footnote">1</a></sup> I have decided to stop my materials informatics work and switch to something that better fits my interests while I am still early in my graduate career.</p>
+
+<h2 id="the-polo-club-of-data-science">The Polo Club of Data Science</h2>
+
+<p>I’m fortunate that CSE here at Georgia Tech conducts research in many fields. So after, yes, <em>more thinking and discussion</em>, I am excited to say that I am joining the <a href="http://poloclub.gatech.edu" title="Polo Club of Data Science.">Polo Club of Data Science</a> led by Dr. Polo Chau.</p>
+
+<p>Polo Club’s primary research bridges <strong>data mining and machine learning</strong> techniques with principles from <strong>human-computer interaction and visualization</strong> to make interactive tools to help people understand and explore big data<sup id="fnref:research-areas" role="doc-noteref"><a href="#fn:research-areas" class="footnote" rel="footnote">2</a></sup>.</p>
+
+<p>This unique combination enables one to stay current with the latest analytic and machine learning practices as well as refine one’s visual design work and communication through interactive visualizations. Polo was recently <a href="http://www.cse.gatech.edu/news/522401/12m-nsf-award-helps-consumers-enter-age-big-data" title="$1.2M NSF Award Helps Consumers Enter Age of Big Data.">awarded a new NSF grant</a> that proposes similar ideas.</p>
+
+<blockquote>
+  <p>“It is about how to make sense of a large amount of different kinds of data using ‘natural’ ways to interact and explore their representations.”
+With this award, Abello and Chau will take on the challenge of computer-human interactive exploration of information-rich, billion-scale network data sets.</p>
+</blockquote>
+
+<p>This research echoes my older “math + design” idea in the context of computing, and I think there’s much to be explored. So starting next semester I’ll be advised by <a href="http://www.cc.gatech.edu/~dchau/" title="Polo Chau.">Dr. Polo Chau</a> of CSE and co-advised by <a href="http://va.gatech.edu/endert/" title="Alex Endert.">Dr. Alex Endert</a> of the School of Interactive Computing (IC). This allows me to keep one foot in CSE for analytics and one foot in IC for visualization.</p>
+
+<h2 id="i-was-warned-about-this">I Was Warned About This</h2>
+
+<p>During my senior year at my undergraduate institution, I recall a conversation I had with a math faculty member and a graduating Ph.D. student regarding my future as a graduate student. They both said “However hard you think graduate school is, it’s harder.” That’s probably true, but a supportive community and exciting work help ease the difficulty.</p>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:fn-discussion" role="doc-endnote">
+      <p>Thank you to those individuals who willingly talked with me, as well as the ones I trapped! <a href="#fnref:fn-discussion" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:research-areas" role="doc-endnote">
+      <p>Some extra reading: <a href="https://en.wikipedia.org/wiki/Data_mining" title="Data Mining.">data mining</a>, <a href="https://en.wikipedia.org/wiki/Machine_learning">machine learning</a>, <a href="https://en.wikipedia.org/wiki/Human–computer_interaction">human-computer interaction</a>, and <a href="https://en.wikipedia.org/wiki/Visualization_(computer_graphics)">visualization</a>. <a href="#fnref:research-areas" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+:ET

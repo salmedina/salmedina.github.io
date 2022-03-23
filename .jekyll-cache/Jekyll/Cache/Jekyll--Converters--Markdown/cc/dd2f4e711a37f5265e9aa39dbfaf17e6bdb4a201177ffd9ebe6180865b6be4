@@ -1,0 +1,59 @@
+I"E<p>Welcome to the new <code class="language-html highlighter-rouge">fredhohman.com</code>.</p>
+
+<!--more-->
+
+<h2 id="whats-going-on">What’s going on?</h2>
+<p>2015 has been a big year so far. I graduated from the University of Georgia with a B.S. in Mathematics and B.S. in Physics. During the past four years I spent there I experienced living in the lovely artistic and historic city of Athens, GA, met lifelong friends, and discovered what truly  interests me.</p>
+
+<blockquote>
+  <p>“So what do you want to do with a Math and Physics degree?”</p>
+</blockquote>
+
+<p>I’ve answered this question more than a dozen of times over my last semester. I’m excited to say that I’m starting my Ph.D. in <a href="http://cse.gatech.edu" title="GT Computational Science and Engineering."><strong>Computational Science and Engineering</strong></a> (CSE) in the <a href="http://www.cc.gatech.edu" title="GT College of Computing."><strong>College of Computing</strong></a> at <a href="http://gatech.edu" title="Georgia Tech."><strong>Georgia Tech</strong></a><sup id="fnref:fn-football" role="doc-noteref"><a href="#fn:fn-football" class="footnote" rel="footnote">1</a></sup>.</p>
+
+<figure>
+  <img src="/images/blog/uga-gt.png" alt="UGA / GT." />
+  <figcaption>Controversial. I know.</figcaption>
+</figure>
+
+<p>For those that don’t know, <em>Computational Science</em> is indeed different than <em>Computer Science</em><sup id="fnref:fn-cse" role="doc-noteref"><a href="#fn:fn-cse" class="footnote" rel="footnote">2</a></sup>. If you aren’t familiar with CSE, Wikipedia says it’s</p>
+
+<blockquote>
+  <p>a new discipline that deals with the development and application of computational models and simulations to solve complex physical problems arising in engineering analysis and design as well as natural phenomena. CSE has been described as the “third mode of discovery” (next to theory and experimentation).</p>
+</blockquote>
+
+<p>But I usually just tell people I’m going to make computers do things with numbers.</p>
+
+<h2 id="but-what-about-this-website">But what about this website?</h2>
+
+<p>As I start my Ph.D. at Georgia Tech this Fall I decided I needed an easier way to update my website. I also wanted to add a blog page to provide continual communication and add a bit of personality to the site.</p>
+
+<p>There are hundreds of ways to build a website now, but after looking around, I decided to go with <a href="http://jekyllrb.com" title="Jekyll.">Jekyll</a>: the static site generator. I’ll talk about what Jekyll is in another post, but just know that it’s <em>much</em> better than whatever I was trying to do before.</p>
+
+<p>All the content from the old website has been spruced up and is live right now. That includes more information about me via my <a href="http://localhost:4000/about">About</a> page, my <a href="http://localhost:4000/projects">Projects</a>, this <a href="http://localhost:4000/blog">Blog</a>, and a new section called <a href="http://localhost:4000/other">Other</a> that (right now) includes four pages:</p>
+
+<ul>
+  <li><a href="http://localhost:4000/stuff-i-use">Stuff I Use</a></li>
+  <li><a href="http://localhost:4000/photos">Photos</a></li>
+  <li><a href="http://localhost:4000/monthly-music">Monthly Music</a></li>
+  <li><a href="http://localhost:4000/archive">Archive</a></li>
+</ul>
+
+<p>So take a couple minutes and explore. Feel free to let me know what you think by leaving a comment below, shooting me an email, or tweeting <a href="https://twitter.com/fredhohman" title="@fredhohman">@fredhohman</a>. I’m off to start something new.</p>
+
+<blockquote class="twitter-tweet tw-align-center" lang="en"><p lang="en" dir="ltr">Tomorrow is my first day of graduate school at <a href="https://twitter.com/GeorgiaTech">@GeorgiaTech</a> <a href="https://twitter.com/gtcomputing">@gtcomputing</a> &#10;&#10;The path to Dr. Fred begins at 10AM.</p>&mdash; Fred Hohman (@fredhohman) <a href="https://twitter.com/fredhohman/status/633095051741167616">August 17, 2015</a></blockquote>
+<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<p>So hello, Internet. See you around.</p>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:fn-football" role="doc-endnote">
+      <p>Football games are going to be problematic. For those that don’t know, UGA and GT have an intense rivalry. <a href="#fnref:fn-football" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:fn-cse" role="doc-endnote">
+      <p>Don’t worry, I don’t blame you. <a href="#fnref:fn-cse" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+:ET

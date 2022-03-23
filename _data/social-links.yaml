@@ -1,32 +1,32 @@
 - id: home
-  description: "fredhohman.com"
+  description: "salmedia.github.io"
   color: "#515151"
   class: "fas fa-home icon"
-  url: "https://fredhohman.com"
+  url: "https://salmedina.github.io"
   on-homepage: false
   cv-group: 1
 
 - id: email
-  description: "fredhohman@gatech.edu"
+  description: "salvadom@cs.cmu.edu"
   color: "#515151"
   class: "fas fa-envelope icon"
-  url: "mailto:fredhohman@gatech.edu"
+  url: "mailto:salvadom@cs.cmu.edu"
   on-homepage: true
   cv-group: 1
 
 - id: twitter
-  description: "@fredhohman"
+  description: "@grekogecko"
   color: "#1da1f2"
   class: "fab fa-twitter icon"
-  url: https://twitter.com/fredhohman
+  url: https://twitter.com/grekogecko
   on-homepage: true
   cv-group: 2
 
 - id: github
-  description: "@fredhohman"
+  description: "@salmedina"
   color: "#6e5494"
   class: "fab fa-github icon"
-  url: "https://github.com/fredhohman"
+  url: "https://github.com/salmedina"
   on-homepage: true
   cv-group: 2
 
@@ -34,7 +34,7 @@
   description: "Google Scholar"
   color: "#515151"
   class: "fa fa-graduation-cap icon"
-  url: "https://scholar.google.com/citations?user=1w0TLT8AAAAJ&hl=en"
+  url: "https://scholar.google.com/citations?user=Ihtg6r8AAAAJ&hl=en"
   on-homepage: true
   cv-group: 2
 
@@ -42,13 +42,13 @@
   description: CV PDF
   color: "#ba2818"
   class: "far fa-file-pdf icon"
-  url: "https://fredhohman.com/cv.pdf"
+  url: "https://salmedina.github.io/cv/salvador_medina.pdf"
   on-homepage: false
   cv-group: 1
 
 - id: cv-web
-  description: Here's my CV
+  description: This is my CV
   color: "#515151"
   class: "fa fa-address-card icon"
-  url: "https://fredhohman.com/cv/"
+  url: "https://salmedina.github.io/cv/salvador_medina.pdf"
   on-homepage: false

@@ -1,0 +1,41 @@
+I"�<p><em>An interactive, narrative visualization summarizing the visual and textual aspects of the hit HBO series Game of Thrones.</em></p>
+
+<p>The hit TV show Game of Thrones has won critical acclaim and the attention of millions of fans with its inspiring cinematography and brilliant dialogue. Dedicated fans of the show can recall critical scenes and key quotes with ease, but can they pick out high-level trends that emerge over the course of the series?</p>
+
+<p>For instance, in which season was the frozen North the focus of the plot? With all the violent twists in the plot, how often does the show’s dialogue tend toward the topic of death? This project for <strong><a href="http://www.cc.gatech.edu/~stasko/7450/" title="Georgia Tech's Information Visualization Class">CS 7450 Information Visualization</a></strong> seeks to highlight these large-scale patterns that might otherwise be missed.</p>
+
+<p>You can view the web visualization <a href="http://fredhohman.com/a-viz-of-ice-and-fire/" title="A Viz of Ice and Fire.">here</a>.</p>
+
+<figure>
+  <img src="/images/projects/cs-7450-a-viz-of-ice-and-fire/cover.png" alt="A Viz of Ice and Fire." />
+</figure>
+
+<p>The visualization highlights the high-level aspects of each Game of Thrones episode, separating the data into <strong><em>visual</em></strong> and <strong><em>textual</em></strong> components. We process over 60 hours of video data and its subtitles (dialogue only) into nominal and quantitative variables of color and text frequencies as follows.</p>
+
+<figure>
+  <img src="/images/projects/cs-7450-a-viz-of-ice-and-fire/cover2-cropped.png" alt="The main interactive view of the visualzation." style="border: 1px solid #ECECEC" />
+  <figcaption>The main interactive component of the visualization.</figcaption>
+</figure>
+
+<p>The figure above shows the main interactive component of the visualization. It currently shows the top 10 colors for the entire series on top, the top ten colors for season 1 in the middle, and the top ten colors for episode 1 towards the bottom, as well as summary of the spoken dialogue and what words contribute to each textual category. However, a user can select any season or episode to update all color blocks as well as the text bubble plot.</p>
+
+<p>The rest of the narrative visualization presents three case studies using the visualization pick out key scenes from the show’s history, as well as present some high-level series analysis.</p>
+
+<p>Our code is easily scalable to include and remove different textual categories, as well as do extra text analysis on the data we have generated. The full code, including the web visualization, the python scripts used to process and generate the data, and the data itself, can be found <a href="https://github.com/fredhohman/a-viz-of-ice-and-fire" title="Github Repository.">on Github</a>.</p>
+
+<hr />
+
+<h2 id="project-members">Project Members</h2>
+<ul>
+  <li><a href="http://sandeepsoni.github.io" title="Sandeep Soni">Sandeep Soni</a></li>
+  <li><a href="http://ianbstewart.github.io/" title="Ian Stewart">Ian Stewart</a></li>
+</ul>
+
+<h2 id="links">Links</h2>
+<ul>
+  <li><a href="http://fredhohman.com/a-viz-of-ice-and-fire/" title="A Viz of Ice and Fire.">A Viz of Ice and Fire</a></li>
+  <li><a href="https://github.com/fredhohman/a-viz-of-ice-and-fire" title="Github Repository.">Github Repository</a></li>
+  <li><a href="http://www.cc.gatech.edu/~stasko/7450/" title="Georgia Tech's Information Visualization Class">Georgia Tech’s CS 7450 InfoVis Class</a></li>
+</ul>
+
+:ET

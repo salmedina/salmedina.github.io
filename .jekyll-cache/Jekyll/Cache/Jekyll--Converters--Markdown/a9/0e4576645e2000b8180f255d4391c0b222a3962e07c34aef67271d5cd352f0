@@ -1,0 +1,25 @@
+I"b<h2 id="projects"><a href="http://localhost:4000/projects">Projects</a></h2>
+<p>Things I do, including research, academic course projects, and miscellaneous interests.</p>
+
+<h2 id="blog"><a href="http://localhost:4000/blog">Blog</a></h2>
+<p>Things I think about, read, and write.</p>
+
+<h2 id="stuff-i-use"><a href="http://localhost:4000/stuff-i-use" title="Stuff I Use.">Stuff I Use</a></h2>
+<p>Inspired by projects like <a href="https://usesthis.com" title="The Setup.">The Setup</a>, here is the stuff I use.</p>
+
+<h2 id="monthly-music"><a href="http://localhost:4000/monthly-music" title="Monthly Music.">Monthly Music</a></h2>
+<p>I’ve been sharing music with friends for as long as I can remember, so I started making monthly public playlists for anyone who wants to tune in.
+Each playlist features ten tracks and with an accompanying Spotify playlist.
+For fans of indie rock, electronic music, and related genres.</p>
+
+<!-- # [Photos][photos]
+I'm no professional photographer, but sometimes I take pictures.
+I shoot with a [Nikon D80][d80], but I always have an iPhone at my side.
+You can also find me on [Instagram][insta]. -->
+
+<h2 id="archive"><a href="http://localhost:4000/archive" title="Archive.">Archive</a></h2>
+<p>The one-stop shop, including all posts from the Blog, Monthly Music, and Projects.</p>
+
+<!-- [photos]: http://localhost:4000/photos "Photos." -->
+
+:ET

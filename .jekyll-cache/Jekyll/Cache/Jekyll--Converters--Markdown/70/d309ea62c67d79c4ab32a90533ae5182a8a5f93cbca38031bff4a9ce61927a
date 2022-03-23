@@ -1,0 +1,41 @@
+I"f<p>Georgia Tech’s <a href="http://cse.gatech.edu" title="GT Computational Science and Engineering.">School of Computational Science and Engineering</a> in the <a href="http://www.cc.gatech.edu" title="GT College of Computing.">College of Computing</a> celebrates its tenth birthday.</p>
+
+<!--more-->
+
+<figure>
+  <img src="/images/blog/gt-cse-10-year-anniversary.png" alt="GT CSE 10 Year Anniversary." />
+  <figcaption>Happy Birthday CSE!</figcaption>
+</figure>
+
+<p>During my second week of graduate school, my new department threw a 10-year anniversary party. The event kicked off with a short presentation by our chair Dr. David Bader about the state of CSE at GT.</p>
+
+<p>Here’s the short version: CSE at GT is doing fantastic and rapidly growing. In fact, it’s growing so fast that CSE is moving to a brand new High Performance Computing building that will be finished in 2018<sup id="fnref:fn-hpcc" role="doc-noteref"><a href="#fn:fn-hpcc" class="footnote" rel="footnote">1</a></sup>.</p>
+
+<blockquote class="twitter-tweet tw-align-center" lang="en"><p lang="en" dir="ltr">HPCC set to be done in 2018 will support groundbreaking high tech research &amp; development. <a href="https://twitter.com/hashtag/InstituteAddress?src=hash">#InstituteAddress</a> <a href="http://t.co/AhQfaN4ICs">pic.twitter.com/AhQfaN4ICs</a></p>&mdash; Georgia Tech (@GeorgiaTech) <a href="https://twitter.com/GeorgiaTech/status/636926028858961920">August 27, 2015</a></blockquote>
+<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<p>Once the presentation concluded, attendees were treated to food, cake, music, live visionary painting by a Georgia Tech alumnus, and a commemorative shirt and drinking glass.</p>
+
+<figure class="l-page">
+  <div class="figure-grid">
+    <img class="figure-grid-left" src="/images/blog/gt-cse-10-year-anniversary-2.jpg" alt="GT CSE 10 Year Anniversary." />
+    <img class="figure-grid-right" src="/images/blog/gt-cse-10-year-anniversary-3.jpg" alt="GT CSE 10 Year Anniversary." />
+  </div>
+  <figcaption>Myself and a few of the other new, first year CSE Ph.D. students.</figcaption>
+</figure>
+
+<p>More pictures from the event can be seen on the <a href="https://www.facebook.com/media/set/?set=a.10153556403559481.1073741838.104804139480&amp;type=3" title="GT College of Computing on Facebook.">College of Computing’s Facebook album</a>.</p>
+
+<p>Hopefully I’ll be graduating when CSE has its 15 year anniversary!<sup id="fnref:fn-grad" role="doc-noteref"><a href="#fn:fn-grad" class="footnote" rel="footnote">2</a></sup></p>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:fn-hpcc" role="doc-endnote">
+      <p>I’ll be in my third year of the Ph.D. program in 2018, so I <em>should</em> be one of the first people to occupy the new building. <a href="#fnref:fn-hpcc" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:fn-grad" role="doc-endnote">
+      <p>That’ll put me right at 5 years: the average amount of time it takes to earn a Ph.D. in CSE. <a href="#fnref:fn-grad" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+:ET

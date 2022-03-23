@@ -1,6 +1,6 @@
-title: Fred Hohman
-tagline: Research Scientist at Apple
-url: http://fredhohman.com
+title: Salvador Medina
+tagline: PhD Student at Carnegie Mellon University
+url: http://salmedina.github.io
 baseurl: ""
 # gems: [jekyll-paginate]
 # paginate: 5
@@ -14,9 +14,9 @@ sass:
   style: compressed
 
 author:
-  name: Fred Hohman
-  url: http://fredhohman.com
-  email: fred.hohman@gmail.com
+  name: Salvador Medina
+  url: http://salmedina.github.io
+  email: salbed.medina@gmail.com
 
 markdown: kramdown
 highlighter: rouge
