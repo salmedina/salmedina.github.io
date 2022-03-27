@@ -38,13 +38,17 @@ layout: default
 <h2>Abstract</h2>
 <div>{{ page.content }}</div>
 
+{% if page.video %}
 <h2>Video</h2>
 <div>
-  <video width="426" height="240" controls>
-	<source src="Speech_Driven_Tongue_Animation_720p.mp4" type="video/mp4">
-	Ooops, it seems your browser is not capable of seeing this. Try using another browser.
-  </video>
+  <center>
+    <video width="426" height="240" controls>
+	  <source src="{{ page.video }}" type="video/mp4">
+	  Ooops, it seems your browser is not capable of seeing this. Try using another browser.
+    </video>
+  </center>
 </div>
+{% endif %}
 
 <h2>Materials</h2>
 <div id="paper-materials">

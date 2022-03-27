@@ -19,6 +19,7 @@ year: 2022
 code: https://www.github.com/salmedina/SpeechDrivenTongueAnimation
 data: https://drive.google.com/file/d/1AkbLsj41ftc56HNPWAI-Y26-QK4Bqbo9/view?usp=sharing
 pdf: https://drive.google.com/XYZ/paper.pdf
+video: /videos/tongue-anim.mp4
 
 selected: true
 type: conference
