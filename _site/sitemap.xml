@@ -84,9 +84,6 @@
 <loc>http://localhost:4000/talk/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/tonge-anim.html</loc>
-</url>
-<url>
 <loc>http://localhost:4000/assets/cse-6730-poster.pdf</loc>
 <lastmod>2022-03-03T13:32:18-05:00</lastmod>
 </url>
@@ -128,10 +125,6 @@
 </url>
 <url>
 <loc>http://localhost:4000/cv.pdf</loc>
-<lastmod>2022-03-03T13:32:18-05:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/research-statement.pdf</loc>
 <lastmod>2022-03-03T13:32:18-05:00</lastmod>
 </url>
 </urlset>
