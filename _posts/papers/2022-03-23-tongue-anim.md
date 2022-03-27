@@ -2,7 +2,7 @@
 layout: paper
 id: tongue-anim
 categories: papers
-permalink: papers/tongue-anim
+permalink: tongue-anim
 title: "Speech Driven Tongue Animation"
 authors: 
     - Salvador Medina
@@ -16,7 +16,7 @@ venue: IEEE/CVF Conference on Computer Vision and Pattern Recognition
 venue-shorthand: CVPR
 location: New Orleans, LA, USA
 year: 2022
-url: https://www.github.com/salmedina/SpeechDrivenTongueAnimation
+code: https://www.github.com/salmedina/SpeechDrivenTongueAnimation
 data: https://drive.google.com/file/d/1AkbLsj41ftc56HNPWAI-Y26-QK4Bqbo9/view?usp=sharing
 pdf: https://drive.google.com/XYZ/paper.pdf
 

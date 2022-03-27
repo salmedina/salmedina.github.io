@@ -1,0 +1,2434 @@
+I"��<h1 id="cv-title"><a href="http://localhost:4000">Salvador Medina</a></h1>
+
+<p id="cv-subtitle"><i>PhD Student (<span class="cv-ai">ML</span> + <span class="cv-vis">Animation</span>)</i></p>
+
+<!-- <div id="cv-toc">
+<ul class="cv-description">
+	<li>Education</li>
+	<li>Industry Research</li>
+	<li>Academic Research</li>
+	<li>Honors and Awards</li>
+	<li>Publications</li>
+	<li>Talks</li>
+	<li>Press</li>
+	<li>Teaching</li>
+	<li>Mentoring</li>
+	<li>Grants and Funding</li>
+	<li>Interactive Articles</li>
+	<li>Service</li>
+	<li>Design</li>
+	<li>References</li>
+</ul>
+</div> -->
+
+<div>
+I research how to enable <b><span class="cv-ai">machine learning interpretability</span></b> at scale and for everyone, by designing and developing interactive interfaces to help people confidently understand data-driven systems. Besides building tools, I also create <b><span class="cv-vis">data visualizations</span></b> and write interactive articles to simply communicate complex ideas.
+</div>
+
+<div class="cv-spacer"></div>
+
+<div>
+I have collaborated with researchers, designers, developers, and artists while working at Apple, Microsoft Research, NASA Jet Propulsion Lab, and Pacific Northwest National Lab.
+</div>
+
+<!-- <div class="cv-spacer"></div>
+
+<div>
+My research is supported by a NASA Space Technology Research Fellowship.
+</div> -->
+
+<div class="cv-spacer"></div>
+
+<div class="cv-image-links-wrapper">
+	<div class="cv-image-links">
+		
+			
+				<div class="cv-social-link" style="display: flex">
+	<div class="cv-social-link-icon-wrapper">
+		<a href="https://salmedina.github.io"><i class="fas fa-home icon" style="color: #515151"></i></a>
+	</div>
+	<div class="cv-social-link-text-wrapper">
+		<a href="https://salmedina.github.io">salmedia.github.io</a>
+	</div>
+</div>
+			
+		
+			
+				<div class="cv-social-link" style="display: flex">
+	<div class="cv-social-link-icon-wrapper">
+		<a href="mailto:salvadom@cs.cmu.edu"><i class="fas fa-envelope icon" style="color: #515151"></i></a>
+	</div>
+	<div class="cv-social-link-text-wrapper">
+		<a href="mailto:salvadom@cs.cmu.edu">salvadom@cs.cmu.edu</a>
+	</div>
+</div>
+			
+		
+			
+		
+			
+		
+			
+		
+			
+				<div class="cv-social-link" style="display: flex">
+	<div class="cv-social-link-icon-wrapper">
+		<a href="https://salmedina.github.io/cv/salvador_medina.pdf"><i class="far fa-file-pdf icon" style="color: #ba2818"></i></a>
+	</div>
+	<div class="cv-social-link-text-wrapper">
+		<a href="https://salmedina.github.io/cv/salvador_medina.pdf">CV PDF</a>
+	</div>
+</div>
+			
+		
+			
+		
+	</div>
+	<div class="cv-image-links">
+		
+			
+		
+			
+		
+			
+				<div class="cv-social-link" style="display: flex">
+	<div class="cv-social-link-icon-wrapper">
+		<a href="https://twitter.com/grekogecko"><i class="fab fa-twitter icon" style="color: #1da1f2"></i></a>
+	</div>
+	<div class="cv-social-link-text-wrapper">
+		<a href="https://twitter.com/grekogecko">@grekogecko</a>
+	</div>
+</div>
+			
+		
+			
+				<div class="cv-social-link" style="display: flex">
+	<div class="cv-social-link-icon-wrapper">
+		<a href="https://github.com/salmedina"><i class="fab fa-github icon" style="color: #6e5494"></i></a>
+	</div>
+	<div class="cv-social-link-text-wrapper">
+		<a href="https://github.com/salmedina">@salmedina</a>
+	</div>
+</div>
+			
+		
+			
+				<div class="cv-social-link" style="display: flex">
+	<div class="cv-social-link-icon-wrapper">
+		<a href="https://scholar.google.com/citations?user=Ihtg6r8AAAAJ&amp;hl=en"><i class="fa fa-graduation-cap icon" style="color: #515151"></i></a>
+	</div>
+	<div class="cv-social-link-text-wrapper">
+		<a href="https://scholar.google.com/citations?user=Ihtg6r8AAAAJ&amp;hl=en">Google Scholar</a>
+	</div>
+</div>
+			
+		
+			
+		
+			
+		
+	</div>
+</div>
+
+<hr />
+
+<h2 id="education">Education</h2>
+
+
+<div class="cv-left-date">Dec. 2020 — Aug. 2015</div>
+<b>Ph.D. in Computational Science & Engineering</b>
+<div><a href="https://www.gatech.edu/">Georgia Institute of Technology</a>, Atlanta, GA</div>
+
+
+	<div class="cv-description">
+		Advisor: 
+Duen Horng (Polo) Chau, Co-advisor: 
+Alex Endert
+	</div>
+
+
+
+	<div class="cv-description">
+		Thesis: <a href="../defense/"><i>Interactive Scalable Interfaces for Machine Learning Interpretability</i></a>
+	</div>
+
+
+
+	<div class="cv-description">
+		Committee:
+		
+			
+				
+Duen Horng (Polo) Chau,
+			
+		
+			
+				
+Alex Endert,
+			
+		
+			
+				
+Chao Zhang,
+			
+		
+			
+				
+Nathan Hodas,
+			
+		
+			
+				
+Scott Davidoff,
+			
+		
+			
+				
+Steven Drucker
+			
+		
+	</div>
+
+	
+
+
+<div class="pub-misc">
+	
+		<a href="../defense/">
+			<i class="fas fa-link" aria-hidden="true"></i> Thesis Project Page
+		</a>
+	
+	
+	
+		<a href="../papers/fred-hohman-thesis.pdf">
+			<i class="fas fa-file-pdf" aria-hidden="true"></i> Thesis
+		</a>
+	
+
+	
+		<a href="https://youtu.be/TNH8RqyNfmo">
+			<i class="fas fa-video" aria-hidden="true"></i> Thesis Recording
+		</a>
+	
+</div>
+
+<div class="cv-spacer"></div>
+
+
+<div class="cv-left-date">May 2018 </div>
+<b>M.S. in Computational Science & Engineering</b>
+<div><a href="https://www.gatech.edu/">Georgia Institute of Technology</a>, Atlanta, GA</div>
+
+
+
+
+
+
+	
+
+	<div class="cv-description">
+		
+			GPA: 4.00/4.00
+		
+	</div>
+
+
+<div class="pub-misc">
+	
+	
+	
+
+	
+</div>
+
+<div class="cv-spacer"></div>
+
+
+<div class="cv-left-date">May 2015 — Aug. 2011</div>
+<b>B.S. in Mathematics, B.S. in Physics</b>
+<div><a href="https://www.uga.edu/">University of Georgia</a>, Athens, GA</div>
+
+
+
+
+	<div class="cv-description">
+		Thesis: <a href="../projects/3d-printing-the-trefoil-knot-and-its-pages/"><i>3D Printing the Trefoil Knot and its Pages</i></a>
+	</div>
+
+
+
+	
+
+	<div class="cv-description">
+		
+			Overall GPA: 3.84/4.00, Magna Cum Laude, Area of Emphasis in Applied Mathematics
+		
+	</div>
+
+
+<div class="pub-misc">
+	
+		<a href="../projects/3d-printing-the-trefoil-knot-and-its-pages/">
+			<i class="fas fa-link" aria-hidden="true"></i> Thesis Project Page
+		</a>
+	
+	
+	
+		<a href="../papers/fred-hohman-undergrad-thesis.pdf">
+			<i class="fas fa-file-pdf" aria-hidden="true"></i> Thesis
+		</a>
+	
+
+	
+</div>
+
+<div class="cv-spacer"></div>
+
+
+
+<h2 id="industry-research-experience">Industry Research Experience</h2>
+
+<div class="cv-left-date">Present — Jan. 2021 </div>
+<div><a href="https://apple.com"><b>Apple</b></a>, Seattle, WA</div>
+<div><i>Research Scientist, <a href="https://machinelearning.apple.com/">Design + Visualization Group</a></i></div>
+
+<div class="cv-description">Research and design for everyone in the machine learning process—the developers who build models, the designers who create experiences, and the people who use technology.</div>
+<div class="cv-spacer"></div>
+
+<div class="cv-left-date">Summer 2019 </div>
+<div><a href="https://apple.com"><b>Apple</b></a>, Seattle, WA</div>
+<div><i>Research Intern, <a href="https://apple.com">Turi Human-centered Machine Learning Group</a></i></div>
+
+<div class="cv-description">Mentor: 
+	
+	
+		
+Kanit Wongsuphasawat,	
+	
+	
+	
+		
+Kayur Patel
+	
+	
+</div>
+
+<div class="cv-description">Designed and developed interactive visualizations for data iteration in machine learning, published at CHI 2020.</div>
+<div class="cv-spacer"></div>
+
+<div class="cv-left-date">Summer 2018 </div>
+<div><a href="https://www.microsoft.com/en-us/research"><b>Microsoft Research</b></a>, Redmond, WA</div>
+<div><i>Research Intern, <a href="https://www.microsoft.com/en-us/research/group/human-computer-interaction">Human-Computer Interaction Group</a></i></div>
+
+<div class="cv-description">Mentor: 
+	
+	
+		
+Steven Drucker
+	
+	
+</div>
+
+<div class="cv-description">Designed, developed, and deployed interactive interface for operationalizing machine learning interpretability, published at CHI 2019.</div>
+<div class="cv-spacer"></div>
+
+<div class="cv-left-date">Summer 2017 </div>
+<div><a href="https://www.jpl.nasa.gov"><b>NASA Jet Propulsion Lab</b></a>, Pasadena, CA</div>
+<div><i>Creative Computer Scientist, <a href="https://hi.jpl.nasa.gov/">Human Interfaces Group</a></i></div>
+
+<div class="cv-description">Mentor: 
+	
+	
+		
+Scott Davidoff,	
+	
+	
+	
+		
+Arun Viswanathan
+	
+	
+</div>
+
+<div class="cv-description">Joint work between NASA JPL, Caltech, and Art Center creating interactive data visualizations for current scientific research. Prototype presented to lab leadership and secured funding to be incorporated into Mars 2020 mission.</div>
+<div class="cv-spacer"></div>
+
+<div class="cv-left-date">Summer 2016 </div>
+<div><a href="https://www.pnnl.gov"><b>Pacific Northwest National Lab</b></a>, Richland, WA</div>
+<div><i>National Security Ph.D. Intern, <a href="http://www.pnnl.gov/nationalsecurity/technical/capabilities/computing/data_sciences.stm">Data Sciences &amp; Analytics Group</a></i></div>
+
+<div class="cv-description">Mentor: 
+	
+	
+		
+Nathan Hodas
+	
+	
+</div>
+
+<div class="cv-description">Built interactive tools that generate synthetic images to explain deep learning classifiers, published at CHI 2017.</div>
+<div class="cv-spacer"></div>
+
+<h2 id="academic-research-experience">Academic Research Experience</h2>
+
+<div class="cv-left-date">Present — Aug. 2016</div>
+<div><a href="http://gatech.edu"><b>Georgia Institute of Technology</b></a>, Atlanta, GA</div>
+<div><i>Graduate Research Assistant, <a href="http://cse.gatech.edu">School of Computational Science and Engineering</a></i></div>
+
+<div class="cv-description">Advisor: 
+	
+	
+		
+Duen Horng (Polo) Chau,	
+	
+	
+	
+		
+Alex Endert
+	
+	
+</div>
+
+<div class="cv-description">Member of the Polo Club of Data Science where we bridge and innovate at the intersection of data mining and human-computer interaction to synthesize scalable, interactive, and interpretable tools that amplify human’s ability to understand and interact with big data.</div>
+<div class="cv-spacer"></div>
+
+<div class="cv-left-date">May 2016 — Aug. 2015</div>
+<div><a href="http://gatech.edu"><b>Georgia Institute of Technology</b></a>, Atlanta, GA</div>
+<div><i>Graduate Research Assistant, <a href="http://cse.gatech.edu">School of Computational Science and Engineering</a></i></div>
+
+<div class="cv-description">Mentor: 
+	
+	
+		
+Surya Kalidindi
+	
+	
+</div>
+
+<div class="cv-description">Conducted research in physical data science and material informatics by creating property-structure linkages using machine learning to predict material properties. Contributed to direction and code of PyMKS: Materials Knowledge Systems in Python.</div>
+<div class="cv-spacer"></div>
+
+<div class="cv-left-date">May 2015 — Jan. 2013</div>
+<div><a href="http://www.uga.edu"><b>University of Georgia</b></a>, Athens, GA</div>
+<div><i>Undergraduate Research Assistant, <a href="http://math.uga.edu">Department of Mathematics</a></i></div>
+
+<div class="cv-description">Advisor: 
+	
+	
+		
+David Gay
+	
+	
+</div>
+
+<div class="cv-description">Explored 3D printing and mathematical exposition in topology. Programmed, designed, and 3D printed 34-piece, color-coordinated, and magnetized 3D puzzle of the trefoil knot fibration. Led 3D printing research and education in mathematics department.</div>
+<div class="cv-spacer"></div>
+
+<div class="cv-left-date">Summer 2014 </div>
+<div><a href="http://faculty.fairfield.edu/srafalski/reu/"><b>REU in Mathematics and Computational Science</b></a>, Fairfield, CT</div>
+<div><i>Fairfield University, <a href="https://www.fairfield.edu/undergraduate/academics/schools-and-colleges/college-of-arts-and-sciences/programs/mathematics/">Department of Mathematics</a></i></div>
+
+<div class="cv-description">Mentor: 
+	
+	
+		
+Shanon Reckinger
+	
+	
+</div>
+
+<div class="cv-description">Directly compared numerical solutions from Navier-Stokes equations to designed lab-scale experiments to model specific ocean phoneme. Configured MIT General Circulation Model on CPU cluster to run parallel computational fluid dynamics simulations.</div>
+<div class="cv-spacer"></div>
+
+<h2 id="honors-and-awards">Honors and Awards</h2>
+
+<div class="cv-left-date">2019</div>
+<div>Best Paper at ACM CHI Conference</div>
+<div class="cv-description">For "Managing Messes in Computational Notebooks"</div>
+<div class="cv-spacer-small"></div>
+
+<div class="cv-left-date">2018</div>
+<div>Best Paper, Honorable Mention at VISxAI Workshop at IEEE VIS</div>
+<div class="cv-description">For "The Beginner's Guide to Dimensionality Reduction"</div>
+<div class="cv-spacer-small"></div>
+
+<div class="cv-left-date">2018 — 2021</div>
+<div>NASA Space Technology Research Fellowship</div>
+<div class="cv-description">For my Ph.D. work on "Understanding Deep Neural Networks Through Attribution and Interactive Experimentation"</div>
+<div class="cv-spacer-small"></div>
+
+<div class="cv-left-date">2018</div>
+<div>Audience Appreciation Award, Runner Up at ACM SIGKDD Conference</div>
+<div class="cv-description">For "Shield: Fast, Practical Defense and Vaccination for Deep Learning using JPEG Compression"</div>
+<div class="cv-spacer-small"></div>
+
+<div class="cv-left-date">2017 — 2018</div>
+<div>Microsoft Azure for Research Award: AI for Earth</div>
+<div class="cv-description">For our work on "Deep Learning for Fine-scale Population Maps"</div>
+<div class="cv-spacer-small"></div>
+
+<div class="cv-left-date">2017</div>
+<div>Best Demo, Honorable Mention at ACM SIGMOD/PODS Conference</div>
+<div class="cv-description">For "Visual Graph Query Construction and Refinement"</div>
+<div class="cv-spacer-small"></div>
+
+<div class="cv-left-date">2015 — 2019</div>
+<div>President's Fellowship at Georgia Institute of Technology</div>
+<div class="cv-description">Select number of 1st year doctoral students who bring exemplary levels of scholarship and innovation to their academic departments</div>
+<div class="cv-spacer-small"></div>
+
+<div class="cv-left-date">2015</div>
+<div>Outstanding Poster at JMM Undergraduate Poster Session in Computational Math</div>
+<div class="cv-description">For "Experimental and Numerical Comparison of Oceanic Overflow"</div>
+<div class="cv-spacer-small"></div>
+
+<div class="cv-left-date">2015</div>
+<div>UGA CURO Research Graduation Distinction</div>
+<div class="cv-description">Awarded to undergraduates who write a thesis, present at the CURO Symposium, and complete 9 research credit hours</div>
+<div class="cv-spacer-small"></div>
+
+<div class="cv-left-date">2014</div>
+<div>UGA CURO Research Assistantship</div>
+<div class="cv-description">Stipend awarded to outstanding undergraduates that actively participate in faculty-mentored research</div>
+<div class="cv-spacer-small"></div>
+
+<div class="cv-left-date">2011 — 2015</div>
+<div>Dean's List</div>
+<div class="cv-description">Achieved at least a 3.5 GPA during a semester with minimum 14 credit hours</div>
+<div class="cv-spacer-small"></div>
+
+<div class="cv-left-date">2011 — 2015</div>
+<div>Georgia HOPE Scholarship</div>
+<div class="cv-description">Merit-based award to Georgia residents providing tuition assistance for their undergraduate degree</div>
+<div class="cv-spacer-small"></div>
+
+<div class="cv-left-date">2011</div>
+<div>Mission of Blessed Trinity: Artistic Sensibility</div>
+<div class="cv-description">One of two students to receive the Mission Statement award upon high-school graduation</div>
+<div class="cv-spacer-small"></div>
+
+<h2 id="publications">Publications</h2>
+
+<h3 id="selected-latest--greatest">Selected: Latest &amp; Greatest</h3>
+
+<div>
+
+	<a href="/papers/tongue-anim"><b>Speech Driven Tongue Animation</b></a>
+
+</div>
+
+<div>
+	
+		
+			
+<a href="https://salmedina.github.io">Salvador Medina</a>,
+		
+	
+		
+			
+<a href="https://denistome.github.io/">Denis Tome</a>,
+		
+	
+		
+			
+<a href="https://www.linkedin.com/in/carstenstoll">Carsten Stoll</a>,
+		
+	
+		
+			
+<a href="https://haskinslabs.org/people/mark-tiede">Mark Tiede</a>,
+		
+	
+		
+			
+<a href="https://www.queensu.ca/psychology/kevin-munhall">Kevin Munhall</a>,
+		
+	
+		
+			
+<a href="https://www.cs.cmu.edu/~alex/">Alex Hauptmann</a>,
+		
+	
+		
+			
+<a href="http://www.iainm.com/">Iain Matthews</a>
+		
+	
+</div>
+
+<div><i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). New Orleans, LA, USA, 2022.</i></div>
+
+<div class="pub-misc">
+
+
+	
+
+	
+	  <a href="/papers/tongue-anim">
+	    <i class="fas fa-link" aria-hidden="true"></i> Project
+	  </a>
+	
+
+	
+
+	
+	  <a href="https://drive.google.com/XYZ/paper.pdf">
+	    <i class="far fa-file-pdf" aria-hidden="true"></i> PDF
+	  </a>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	  <a href="https://www.github.com/salmedina/SpeechDrivenTongueAnimation">
+	    <i class="fas fa-code" aria-hidden="true"></i> Code
+	  </a>
+	
+
+	
+	  <a href="https://drive.google.com/file/d/1AkbLsj41ftc56HNPWAI-Y26-QK4Bqbo9/view?usp=sharing">
+	    <i class="fas fa-database" aria-hidden="true"></i> Data
+	  </a>
+	
+
+	
+
+	
+		
+			<a style="cursor:pointer" onclick="toggleBibtex('_/papers/tongue-anim_selected')">
+				<i class="fas fa-book" aria-hidden="true"></i> BibTeX
+			</a>
+		
+		
+	
+
+	
+
+	
+
+	
+
+	
+	
+
+</div>
+
+<div class="highlighter-rouge bibtex bibtex-wrapper" style="display: none;" id="_/papers/tongue-anim_selected">
+	<div class="highlight">
+		<pre>
+			
+@inproceedings{medina2022speechtongue,
+  title={Speech Driven Tongue Animation},
+  author={Medina, Salvador and Tome, Denis and Stoll, Carsten and Tiede, Mark and Munhall, Kevin and Hauptmann, Alex and Matthews, Iain},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2022},
+  organization={IEEE/CVF}
+}
+		</pre>
+	</div>
+</div>
+
+<div class="cv-spacer"></div>
+
+<!-- ### All Publications -->
+
+<h3 id="journal">Journal</h3>
+
+<h3 id="conference">Conference</h3>
+
+<div class="cv-left-date">
+	C1
+</div>
+
+<div>
+
+	<a href="/papers/tongue-anim"><b>Speech Driven Tongue Animation</b></a>
+
+</div>
+
+<div>
+	
+		
+			
+<a href="https://salmedina.github.io">Salvador Medina</a>,
+		
+	
+		
+			
+<a href="https://denistome.github.io/">Denis Tome</a>,
+		
+	
+		
+			
+<a href="https://www.linkedin.com/in/carstenstoll">Carsten Stoll</a>,
+		
+	
+		
+			
+<a href="https://haskinslabs.org/people/mark-tiede">Mark Tiede</a>,
+		
+	
+		
+			
+<a href="https://www.queensu.ca/psychology/kevin-munhall">Kevin Munhall</a>,
+		
+	
+		
+			
+<a href="https://www.cs.cmu.edu/~alex/">Alex Hauptmann</a>,
+		
+	
+		
+			
+<a href="http://www.iainm.com/">Iain Matthews</a>
+		
+	
+</div>
+
+<div><i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). New Orleans, LA, USA, 2022.</i></div>
+
+<div class="pub-misc">
+
+
+	
+
+	
+	  <a href="/papers/tongue-anim">
+	    <i class="fas fa-link" aria-hidden="true"></i> Project
+	  </a>
+	
+
+	
+
+	
+	  <a href="https://drive.google.com/XYZ/paper.pdf">
+	    <i class="far fa-file-pdf" aria-hidden="true"></i> PDF
+	  </a>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	  <a href="https://www.github.com/salmedina/SpeechDrivenTongueAnimation">
+	    <i class="fas fa-code" aria-hidden="true"></i> Code
+	  </a>
+	
+
+	
+	  <a href="https://drive.google.com/file/d/1AkbLsj41ftc56HNPWAI-Y26-QK4Bqbo9/view?usp=sharing">
+	    <i class="fas fa-database" aria-hidden="true"></i> Data
+	  </a>
+	
+
+	
+
+	
+		
+		
+			<a style="cursor:pointer" onclick="toggleBibtex('_/papers/tongue-anim')">
+				<i class="fas fa-book" aria-hidden="true"></i> BibTeX
+			</a>
+		
+	
+
+	
+
+	
+
+	
+
+	
+	
+
+</div>
+
+<div class="highlighter-rouge bibtex bibtex-wrapper" style="display: none;" id="_/papers/tongue-anim">
+	<div class="highlight">
+		<pre>
+			
+@inproceedings{medina2022speechtongue,
+  title={Speech Driven Tongue Animation},
+  author={Medina, Salvador and Tome, Denis and Stoll, Carsten and Tiede, Mark and Munhall, Kevin and Hauptmann, Alex and Matthews, Iain},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2022},
+  organization={IEEE/CVF}
+}
+		</pre>
+	</div>
+</div>
+
+<div class="cv-spacer"></div>
+
+<h3 id="workshop">Workshop</h3>
+
+<h3 id="poster">Poster</h3>
+
+<h3 id="demo">Demo</h3>
+
+<h3 id="miscellaneous">Miscellaneous</h3>
+
+<h2 id="talks">Talks</h2>
+
+<div><b>Interactive Scalable Interfaces for Machine Learning Interpretability</b></div>
+
+<div class="cv-left-date">Nov. 2021</div>
+<div>Carnegie Mellon University, Data Visualization Course Guest Lecture</div>
+
+<div class="cv-left-date">Oct. 2020</div>
+<div>University of Wisconsin-Madison, Data Visualization Course Guest Lecture</div>
+
+<div class="cv-left-date">Oct. 2020</div>
+<div>Georgia Tech Thesis Defense</div>
+
+<div class="cv-left-date">May 2020</div>
+<div>IBM Research</div>
+
+<div class="cv-left-date">Apr. 2020</div>
+<div>Microsoft Research</div>
+
+<div class="cv-left-date">Apr. 2020</div>
+<div>Apple</div>
+
+<div class="cv-left-date">Apr. 2020</div>
+<div>Autodesk Research</div>
+
+<div class="cv-left-date">Dec. 2019</div>
+<div>Georgia Tech Thesis Proposal</div>
+
+<div class="cv-spacer"></div>
+
+<div><b>Summit: Scaling Deep Learning Interpretability by Visualizing Activation and Attribution Summarizations</b></div>
+
+<div class="cv-left-date">Mar. 2020</div>
+<div>NVIDIA GTC</div>
+
+<div class="cv-left-date">Oct. 2019</div>
+<div>IEEE Visualization</div>
+
+<div class="cv-spacer"></div>
+
+<div><b>TeleGam: Combining Visualization and Verbalization for Interpretable Machine Learning</b></div>
+
+<div class="cv-left-date">Oct. 2019</div>
+<div>IEEE Visualization</div>
+
+<div class="cv-spacer"></div>
+
+<div><b>Gamut: A Design Probe to Understand How Data Scientists Understand Machine Learning Models</b></div>
+
+<div class="cv-left-date">June 2019</div>
+<div>Microsoft Machine Learning and Data Science Summit</div>
+
+<div class="cv-left-date">May 2019</div>
+<div>ACM Conference on Human Factors in Computing Systems</div>
+
+<div class="cv-spacer"></div>
+
+<div><b>Explaining Machine Learning Models Using Interactive Visualization</b></div>
+
+<div class="cv-left-date">Mar. 2019</div>
+<div>Georgia Tech School of CSE Strategic Partnership Program Summit</div>
+
+<div class="cv-left-date">Apr. 2019</div>
+<div>Georgia Tech CSE 6242 Data and Visual Analytics</div>
+
+<div class="cv-left-date">Mar. 2019</div>
+<div>Symantec Research Labs</div>
+
+<div class="cv-left-date">Mar. 2019</div>
+<div>NASA Jet Propulsion Laboratory</div>
+
+<div class="cv-spacer"></div>
+
+<div><b>Atlas: Local Graph Exploration in a Global Context</b></div>
+
+<div class="cv-left-date">Mar. 2019</div>
+<div>ACM Intelligent User Interfaces</div>
+
+<div class="cv-spacer"></div>
+
+<div><b>Visual Analytics in Deep Learning: An Interrogative Survey for the Next Frontiers</b></div>
+
+<div class="cv-left-date">Jan. 2019</div>
+<div>Carnegie Mellon University</div>
+
+<div class="cv-left-date">Oct. 2018</div>
+<div>University of Georgia</div>
+
+<div class="cv-left-date">Oct. 2018</div>
+<div>IEEE Visualization</div>
+
+<div class="cv-spacer"></div>
+
+<div><b>The Beginner's Guide to Dimensionality Reduction</b></div>
+
+<div class="cv-left-date">Oct. 2018</div>
+<div>VISxAI Workshop at IEEE Visualization</div>
+
+<div class="cv-spacer"></div>
+
+<div><b>Comparing Interactive Local and Global Explanation Paradigms for Human-assisted Machine Learning Tasks</b></div>
+
+<div class="cv-left-date">July 2018</div>
+<div>Microsoft Research</div>
+
+<div class="cv-spacer"></div>
+
+<div><b>Graph Playgrounds: 3D Exploration of Graph Layers via Vertex Cloning</b></div>
+
+<div class="cv-left-date">Dec. 2017</div>
+<div>AT&amp;T Research Labs Graduate Student Symposium</div>
+
+<div class="cv-spacer"></div>
+
+<div><b>A Viz of Ice and Fire: Exploring Entertainment Video Using Color and Dialogue</b></div>
+
+<div class="cv-left-date">Oct. 2017</div>
+<div>2nd Workshop on Visualization for the Digital Humanities at IEEE Visualization</div>
+
+<div class="cv-spacer"></div>
+
+<div><b>Constellation: Visualizing Cybersecurity in Real Time</b></div>
+
+<div class="cv-left-date">Aug. 2017</div>
+<div>NASA Jet Propulsion Laboratory</div>
+
+<div class="cv-left-date">Aug. 2017</div>
+<div>California Institute of Technology</div>
+
+<div class="cv-spacer"></div>
+
+<div><b>Visualizing Learned Semantics with Deep Learning</b></div>
+
+<div class="cv-left-date">Nov. 2016</div>
+<div>Georgia Tech Ph.D. Qualifying Oral Exam</div>
+
+<div class="cv-spacer"></div>
+
+<div><b>Drawing Semantics with Deep Learning</b></div>
+
+<div class="cv-left-date"> 2016</div>
+<div>Pacific Northwest National Laboratory</div>
+
+<div class="cv-spacer"></div>
+
+<div><b>3D Printing The Trefoil Knot And Its Pages</b></div>
+
+<div class="cv-left-date">Mar. 2015</div>
+<div>UGA Center for Undergraduate Research Symposium, included hands-on demo</div>
+
+<div class="cv-spacer"></div>
+
+<div><b>Experimental and Numerical Studies of Oceanic Overflow</b></div>
+
+<div class="cv-left-date">June 2015</div>
+<div>AMS Conference on Atmospheric and Oceanic Fluid Dynamics</div>
+
+<div class="cv-left-date">Jan. 2015</div>
+<div>Joint Mathematics Meeting</div>
+
+<div class="cv-left-date">Nov. 2014</div>
+<div>APS Division of Fluid Dynamics</div>
+
+<div class="cv-left-date">Aug. 2014</div>
+<div>Invited and presented on behalf at Brown University, Los Alamos National Lab</div>
+
+<div class="cv-left-date">July 2014</div>
+<div>Northeast REU Mini-Conference at Yale University</div>
+
+<div class="cv-left-date">July 2014</div>
+<div>University of Rhode Island Bay Campus</div>
+
+<div class="cv-spacer"></div>
+
+<div><b>3D Printing in Topology</b></div>
+
+<div class="cv-left-date">Mar. 2014</div>
+<div>UGA Center for Undergraduate Research Symposium, included hands-on demo</div>
+
+<div class="cv-spacer"></div>
+
+<h2 id="press">Press</h2>
+
+<div class="cv-left-date">Nov. 2020</div>
+<div>"<a href="https://www.storybench.org/how-interactive-visual-storytelling-helps-readers-better-retain-information/">How interactive, visual storytelling helps readers better retain information</a>," Storybench</div>
+<div class="cv-spacer-small"></div>
+
+<div class="cv-left-date">Nov. 2020</div>
+<div>"<a href="https://www.densediscovery.com/issues/112">Dense Discovery Issue 112</a>," Dense Discovery</div>
+<div class="cv-spacer-small"></div>
+
+<div class="cv-left-date">Oct. 2020</div>
+<div>"<a href="https://numlock.substack.com/p/numlock-sunday-halden-lin-and-aatish">Numlock Sunday: Halden Lin and Aatish Bhatia on the Parametric Press Climate Issue</a>," Numlock News</div>
+<div class="cv-spacer-small"></div>
+
+<div class="cv-left-date">Oct. 2020</div>
+<div>"<a href="https://webrecorder.net/2020/10/22/webarchives-as-publications.html">Web Archives as Digital Publications / Digital Publications as Web Archives</a>," Webrecorder</div>
+<div class="cv-spacer-small"></div>
+
+<div class="cv-left-date">Oct. 2020</div>
+<div>"<a href="https://flowingdata.com/2020/10/20/interactive-data-essays-on-climate-change/">Interactive data essays on climate change</a>," Flowing Data</div>
+<div class="cv-spacer-small"></div>
+
+<div class="cv-left-date">July 2020</div>
+<div>"<a href="https://www.youtube.com/watch?v=HUtHp3duGbI&amp;t=416s">Python in Visual Studio Code - VSCode Features You Need to Know</a>," Tech With Tim</div>
+<div class="cv-spacer-small"></div>
+
+<div class="cv-left-date">July 2020</div>
+<div>"<a href="https://devblogs.microsoft.com/python/python-in-visual-studio-code-july-2020-release/">Python in Visual Studio Code – July 2020 Release</a>," Microsoft Developer Blog</div>
+<div class="cv-spacer-small"></div>
+
+<div class="cv-left-date">June 2020</div>
+<div>"<a href="https://www.youtube.com/watch?v=N6wn8zMRlVE&amp;feature=youtu.be">How Do Neural Networks Learn?</a>," Two Minute Papers</div>
+<div class="cv-spacer-small"></div>
+
+<div class="cv-left-date">Mar. 2020</div>
+<div>"<a href="https://datastori.es/156-fairness-in-machine-learning-with-yongsu-ahn-and-alex-cabrera/">Visualizing Fairness in Machine Learning</a>," Data Stories Podcast</div>
+<div class="cv-spacer-small"></div>
+
+<div class="cv-left-date">Nov. 2019</div>
+<div>"<a href="https://stackoverflow.blog/2019/11/18/the-interactive-news-platform-for-everyone/">The Interactive News Platform for Everyone</a>," Stack Overflow Blog</div>
+<div class="cv-spacer-small"></div>
+
+<div class="cv-left-date">Oct. 2019</div>
+<div>"<a href="https://www.hanselminutes.com/706/is-this-the-dynamic-web-we-were-promised-with-parametric-presss-matthew-conlen">Is this the dynamic web we were promised?</a>," Hanselminutes Podcast</div>
+<div class="cv-spacer-small"></div>
+
+<div class="cv-left-date">June 2019</div>
+<div>"<a href="https://flowingdata.com/2019/06/11/myth-of-the-impartial-machine/">Myth of the impartial machine</a>," Flowing Data</div>
+<div class="cv-spacer-small"></div>
+
+<div class="cv-left-date">May 2019</div>
+<div>"<a href="https://www.fastcompany.com/90353987/the-secret-life-of-a-jpeg">The Secret Life of a JPEG</a>," Fast Company</div>
+<div class="cv-spacer-small"></div>
+
+<div class="cv-left-date">Dec. 2018</div>
+<div>"<a href="https://www.cc.gatech.edu/news/616279/human-rights-may-help-shape-artificial-intelligence-2019">'Human Rights' May Help Shape Artificial Intelligence in 2019</a>," Georgia Tech, College of Computing</div>
+<div class="cv-spacer-small"></div>
+
+<div class="cv-left-date">Dec. 2018</div>
+<div>"<a href="https://www.cse.gatech.edu/news/615416/designers-programmers-and-researchers-join-forces-create-new-kind-digital-magazine">Designers, Programmers, and Researchers Join Forces to Create a New Kind of Digital Magazine Called the Parametric Press</a>," Georgia Tech, College of Computing</div>
+<div class="cv-spacer-small"></div>
+
+<div class="cv-left-date">June 2018</div>
+<div>"<a href="https://www.cc.gatech.edu/news/606678/georgia-tech-teams-intel-protect-artificial-intelligence-malicious-attacks-using-shield">Georgia Tech Teams up with Intel to Protect Artificial Intelligence from Malicious Attacks Using SHIELD</a>," Georgia Tech, College of Computing</div>
+<div class="cv-spacer-small"></div>
+
+<div class="cv-left-date">Dec. 2017</div>
+<div>"<a href="https://www.cse.gatech.edu/news/599787/georgia-tech-team-use-microsoft-grant-study-human-migration-dynamics">Georgia Tech Team To Use Microsoft Grant to Study Human Migration Dynamics</a>," Georgia Tech, College of Computing</div>
+<div class="cv-spacer-small"></div>
+
+<div class="cv-left-date">Sept. 2015</div>
+<div>"<a href="https://3dprint.com/95127/3d-printed-trumpety-trefoil/">Georgia Tech PhD Student Puts Finishing Touches on 3D Printed Trumpety Trefoil</a>," 3dprint.com</div>
+<div class="cv-spacer-small"></div>
+
+<div class="cv-left-date">Spring 2015</div>
+<div>"<a href="http://www.math.uga.edu/news-and-events/math-department-newsletter-spring-2015">Student Profile: Fred Hohman</a>," 2015 UGA Mathematics Department Newsletter</div>
+<div class="cv-spacer-small"></div>
+
+<div class="cv-left-date">Feb. 2015</div>
+<div>"<a href="http://mitgcm.org/2015/02/17/falling-water/">Falling Water</a>," MITgcm.org</div>
+<div class="cv-spacer-small"></div>
+
+<div class="cv-left-date">Dec. 2014</div>
+<div>"<a href="https://3dprint.com/28780/math-3d-printed-trefoil-knot/">Mathematics/Physics Student Creates 3D Printed Puzzle of Trefoil Knot, Catches Mathematical Community's Interest</a>," 3dprint.com</div>
+<div class="cv-spacer-small"></div>
+
+<div class="cv-left-date">July 2014</div>
+<div>"<a href="http://makerhome.blogspot.com/2014/07/day-311-trefoil-trumpet.html">Day 311 - Trefoil Trumpet</a>," Makerhome.com</div>
+<div class="cv-spacer-small"></div>
+
+<div class="cv-left-date">Apr. 2014</div>
+<div>"<a href="https://sketchesoftopology.wordpress.com/2014/04/25/mathematics-with-3d-printing/">Mathematics with 3D Printing</a>," Sketches of Topology</div>
+<div class="cv-spacer-small"></div>
+
+<h2 id="teaching">Teaching</h2>
+
+<div class="cv-left-date">Spring 2019</div>
+<div><a href="http://va.gatech.edu/courses/cs4460/"><b>Graduate Teaching Assistant</b></a></div>
+<div><i><a href="http://gatech.edu">Georgia Institute of Technology</a>, Atlanta, GA</i></div>
+
+<div class="cv-description">
+<a href="http://va.gatech.edu/courses/cs4460/">Information Visualization (CS 4460)</a>,
+Instructor: 
+
+
+	
+Alex Endert
+
+
+</div>
+
+<div class="cv-description">Designed homeworks, held weekly office hours, and mentored student team projects for Information Visualization (CS 4460), an undergraduate course with 134 students enrolled.</div>
+<div class="cv-spacer"></div>
+
+<div class="cv-left-date">Spring 2017</div>
+<div><a href="http://poloclub.gatech.edu/cse6242/2017spring"><b>Graduate Teaching Assistant</b></a></div>
+<div><i><a href="http://gatech.edu">Georgia Institute of Technology</a>, Atlanta, GA</i></div>
+
+<div class="cv-description">
+<a href="http://poloclub.gatech.edu/cse6242/2017spring">Data and Visual Analytics (CSE 6242 / CX 4242)</a>,
+Instructor: 
+
+
+	
+Duen Horng (Polo) Chau
+
+
+</div>
+
+<div class="cv-description">Designed homeworks, held weekly office hours, and mentored student team projects for Data and Visual Analytics (CSE 6242 / CX 4242), a graduate course with 214 students enrolled.</div>
+<div class="cv-spacer"></div>
+
+<div class="cv-left-date">2014 — 2015</div>
+<div><b>Student Notetaker</b></div>
+<div><i><a href="">University of Georgia</a>, Athens, GA</i></div>
+
+<div class="cv-description">Generated notes for undergraduate mathematics and physics courses for students with disabilities.</div>
+<div class="cv-spacer"></div>
+
+<div class="cv-left-date">2012</div>
+<div><b>Tutor</b></div>
+<div><i><a href="">University of Georgia</a>, Athens, GA</i></div>
+
+<div class="cv-description">Specialized in tutoring calculus to undergraduates.</div>
+<div class="cv-spacer"></div>
+
+<h2 id="mentoring">Mentoring</h2>
+
+
+<div class="cv-left-date">Spring + Summer 2021 </div>
+<div><a href="https://a13x.io"><b>Alex Bäuerle</b></a><span class="appears-on"> at <a href="https://www.apple.com/">Apple</a></span></div>
+<div><i>Ph.D. in Information Technology, Ulm University</i></div>
+<div class="cv-description">Reusable, explorable, and sharable data science components</div>
+
+
+
+
+
+<div class="cv-spacer"></div>
+
+<div class="cv-left-date">Summer 2021 </div>
+<div><a href="http://cabreraalex.com/"><b>Ángel Alexander Cabrera</b></a><span class="appears-on"> at <a href="https://www.apple.com/">Apple</a></span></div>
+<div><i>Ph.D. in Human-computer Interaction, Carnegie Mellon University</i></div>
+<div class="cv-description">Reusable, explorable, and sharable data science components</div>
+
+
+
+
+
+<div class="cv-spacer"></div>
+
+<div class="cv-left-date">Summer 2020 </div>
+<div><a href="https://www.jgoertler.com/"><b>Jochen Görtler</b></a><span class="appears-on"> at <a href="https://www.apple.com/">Apple</a></span></div>
+<div><i>Ph.D. in Computer Science, University of Konstanz</i></div>
+<div class="cv-description">Interactive confusion matrices and visualization for error analysis in machine learning</div>
+
+
+
+
+
+<div class="cv-spacer"></div>
+
+<div class="cv-left-date">Summer 2020 </div>
+<div><a href="https://skitree.github.io/aspenhopkins/"><b>Aspen Hopkins</b></a><span class="appears-on"> at <a href="https://www.apple.com/">Apple</a></span></div>
+<div><i>Ph.D. in Computer Science, Massachusetts Institute of Technology</i></div>
+<div class="cv-description">Designing data and proactive data collection for machine learning</div>
+
+
+
+
+
+<div class="cv-spacer"></div>
+
+<div class="cv-left-date">Fall 2020 — Fall 2019</div>
+<div><a href="http://oshaikh.com"><b>Omar Shaikh</b></a></div>
+<div><i>B.S. in Computer Science, Georgia Institute of Technology</i></div>
+<div class="cv-description">Visualization for machine learning education</div>
+
+
+	<div>
+		
+			<div class="cv-description"><i class="fas fa-award" aria-hidden="true"></i> Sigma Xi Best Undergraduate Research Award, Georgia Institute of Technology</div>
+		
+	</div>
+
+
+
+
+<div class="cv-spacer"></div>
+
+<div class="cv-left-date">Fall 2020 — Fall 2019</div>
+<div><a href="https://www.linkedin.com/in/robert-turko/"><b>Robert Turko</b></a></div>
+<div><i>B.S. in Computer Science, Georgia Institute of Technology</i></div>
+<div class="cv-description">Visualization for machine learning education</div>
+
+
+	<div>
+		
+			<div class="cv-description"><i class="fas fa-award" aria-hidden="true"></i> Outstanding Senior Award, College of Computing, Georgia Institute of Technology</div>
+		
+	</div>
+
+
+
+
+<div class="cv-spacer"></div>
+
+<div class="cv-left-date">Spr. 2020 — Fall 2019</div>
+<div><a href="https://www.robfirstman.com/"><b>Rob Firstman</b></a></div>
+<div><i>B.S. in Computer Science, Georgia Institute of Technology</i></div>
+<div class="cv-description">Visualization for deep learning interpretability</div>
+
+
+
+
+
+<div class="cv-spacer"></div>
+
+<div class="cv-left-date">Spr. 2020 — Spr. 2019</div>
+<div><a href="http://www.willepperson.com/"><b>Will Epperson</b></a></div>
+<div><i>B.S. in Computer Science, Georgia Institute of Technology</i></div>
+<div class="cv-description">Visual analytics for machine learning fairness</div>
+
+
+	<div>
+		
+			<div class="cv-description"><i class="fas fa-award" aria-hidden="true"></i> Stamps President's Scholar</div>
+		
+	</div>
+
+
+
+	<div class="cv-description">Now: PhD Student (HCI) at <a href="https://hcii.cmu.edu/">Carnegie Mellon University</a></div>
+
+
+<div class="cv-spacer"></div>
+
+<div class="cv-left-date">Spr. 2020 — Spr. 2019</div>
+<div><a href="https://rsli.github.io/"><b>Siwei Li</b></a></div>
+<div><i>B.S. in Computer Science, Georgia Institute of Technology</i></div>
+<div class="cv-description">Visual graph analytics</div>
+
+
+	<div>
+		
+			<div class="cv-description"><i class="fas fa-award" aria-hidden="true"></i> Outstanding Undergraduate Researcher, College of Computing, Georgia Institute of Technology</div>
+		
+			<div class="cv-description"><i class="fas fa-award" aria-hidden="true"></i> President's Undergraduate Research Award</div>
+		
+	</div>
+
+
+
+	<div class="cv-description">Now: Software Engineer II at <a href="https://www.google.com/">Google</a></div>
+
+
+<div class="cv-spacer"></div>
+
+<div class="cv-left-date">Spr. 2019 — Spr. 2018</div>
+<div><a href="http://cabreraalex.com/"><b>Ángel Alexander Cabrera</b></a></div>
+<div><i>B.S. in Computer Science, Georgia Institute of Technology</i></div>
+<div class="cv-description">Visual analytics for machine learning fairness, interactive classification for deep learning</div>
+
+
+	<div>
+		
+			<div class="cv-description"><i class="fas fa-award" aria-hidden="true"></i> National Science Foundation Graduate Research Fellowship Program (NSF GRFP)</div>
+		
+			<div class="cv-description"><i class="fas fa-award" aria-hidden="true"></i> Love Family Foundation Scholarship (most outstanding graduating senior), Georgia Institute of Technology</div>
+		
+			<div class="cv-description"><i class="fas fa-award" aria-hidden="true"></i> Stamps President's Scholar</div>
+		
+	</div>
+
+
+
+	<div class="cv-description">Now: PhD Student (HCI) at <a href="https://hcii.cmu.edu/">Carnegie Mellon University</a></div>
+
+
+<div class="cv-spacer"></div>
+
+<div class="cv-left-date">Spr. 2018 — Fall 2016</div>
+<div><a href="https://cv.andyfang.me/"><b>Dezhi Fang</b></a></div>
+<div><i>B.S. in Computer Science, Georgia Institute of Technology</i></div>
+<div class="cv-description">Interactive visual motif discovery</div>
+
+
+	<div>
+		
+			<div class="cv-description"><i class="fas fa-award" aria-hidden="true"></i> Outstanding Undergraduate Researcher, College of Computing, Georgia Institute of Technology</div>
+		
+			<div class="cv-description"><i class="fas fa-award" aria-hidden="true"></i> Faculty Materials, Supplies, and Travel Grants for Undergraduate Research</div>
+		
+			<div class="cv-description"><i class="fas fa-award" aria-hidden="true"></i> Awarded President's Undergraduate Research Travel Award</div>
+		
+	</div>
+
+
+
+	<div class="cv-description">Now: Software Development Engineer at <a href="https://www.airbnb.com">Airbnb</a></div>
+
+
+<div class="cv-spacer"></div>
+
+<div class="cv-left-date">Spr. 2018 — Fall 2017</div>
+<div><a href="https://www.linkedin.com/in/prasenjeetbiswal/"><b>Prasenjeet Biswal</b></a></div>
+<div><i>M.S. in Computer Science, Georgia Institute of Technology</i></div>
+<div class="cv-description">Visualization for deep learning attribution</div>
+
+
+
+
+	<div class="cv-description">Now: Software Development Engineer at <a href="https://www.oath.com">Oath</a></div>
+
+
+<div class="cv-spacer"></div>
+
+
+<h2 id="grants-and-funding">Grants and Funding</h2>
+
+<div class="cv-left-date">2018 — 2021</div>
+<div><a href="https://www.nasa.gov/strg/nstrf"><b>Understanding Deep Neural Networks Through Attribution and Interactive Experimentation</b></a></div>
+<div><a href="https://www.nasa.gov/strg/nstrf">NSTRF: NASA Space Technology Research Fellowship</a></div>
+
+<div class="cv-description">
+Co-PIs: 
+
+	
+		
+Duen Horng (Polo) Chau
+	
+
+</div>
+<div class="cv-description">Funded $80,000/year for 3 years</div>
+
+<div class="cv-spacer"></div>
+
+<div class="cv-left-date">2017 — 2018</div>
+<div><a href="https://deeppop.github.io"><b>Deep Learning for Fine-scale Population Maps</b></a></div>
+<div><a href="https://www.microsoft.com/en-us/ai-for-earth">Microsoft Azure for Research Award: AI for Earth</a></div>
+
+<div class="cv-description">
+Co-PIs: 
+
+	
+		
+Caleb Robinson,	
+	
+
+	
+		
+Bistra Dilkina
+	
+
+</div>
+<div class="cv-description">Funded $15,000</div>
+
+<div class="cv-spacer"></div>
+
+<div class="cv-left-date">Fall 2014</div>
+<div><a href="/projects/3d-printing-the-trefoil-knot-and-its-pages"><b>3D Printing the Trefoil Knot and its Pages</b></a></div>
+<div><a href="https://curo.uga.edu/students/curo_research_assistantship.html">UGA CURO Research Assistantship</a></div>
+
+<div class="cv-description">
+Co-PIs: 
+
+	
+		
+David Gay
+	
+
+</div>
+<div class="cv-description">Funded $1,000</div>
+
+<div class="cv-spacer"></div>
+
+<h2 id="interactive-articles">Interactive Articles</h2>
+
+<div class="cv-left-date">January 2022 </div>
+<div><a href="https://machinelearning.apple.com/research/modeling-covid-mobility"><b>Modeling the Impact of User Mobility on COVID-19 Infection Rates Over Time</b></a><span class="appears-on"> on <a href="https://machinelearning.apple.com/">Apple ML Research</a></span></div>
+
+<div>
+	
+</div>
+
+<div class="cv-description">Developing flexible, interpretable models to assess how the effect of mobility changes</div>
+
+<div class="cv-spacer"></div>
+
+<div class="cv-left-date">December 2021 </div>
+<div><a href="https://machinelearning.apple.com/research/interpretable-adaptive-optimization"><b>Interpretable Adaptive Optimization</b></a><span class="appears-on"> on <a href="https://machinelearning.apple.com/">Apple ML Research</a></span></div>
+
+<div>
+	
+</div>
+
+<div class="cv-description">Algorithms for measuring and understanding the best user experiences</div>
+
+<div class="cv-spacer"></div>
+
+<div class="cv-left-date">October 2021 </div>
+<div><a href="https://machinelearning.apple.com/research/panoptic-segmentation"><b>On-device Panoptic Segmentation for Camera Using Transformers</b></a><span class="appears-on"> on <a href="https://machinelearning.apple.com/">Apple ML Research</a></span></div>
+
+<div>
+	
+</div>
+
+<div class="cv-description">Efficient pixel-level understanding for the Camera</div>
+
+<div class="cv-spacer"></div>
+
+<div class="cv-left-date">September 2021 </div>
+<div><a href="https://machinelearning.apple.com/research/improving-neural-subspaces"><b>Improving Neural Network Subspaces</b></a><span class="appears-on"> on <a href="https://machinelearning.apple.com/">Apple ML Research</a></span></div>
+
+<div>
+	
+</div>
+
+<div class="cv-description">Training regions in neural network subspaces to find high-accuracy solutions</div>
+
+<div class="cv-spacer"></div>
+
+<div class="cv-left-date">August 2021 </div>
+<div><a href="https://machinelearning.apple.com/research/learning-to-generate-radiance-fields"><b>Learning to Generate Radiance Fields of Indoor Scenes</b></a><span class="appears-on"> on <a href="https://machinelearning.apple.com/">Apple ML Research</a></span></div>
+
+<div>
+	
+</div>
+
+<div class="cv-description">Developing new generative models that can learn probability distributions over realistic and unconstrained indoor scenes</div>
+
+<div class="cv-spacer"></div>
+
+<div class="cv-left-date">July 2021 </div>
+<div><a href="https://machinelearning.apple.com/research/recognizing-people-photos"><b>Recognizing People in Photos Through Private On-Device Machine Learning</b></a><span class="appears-on"> on <a href="https://machinelearning.apple.com/">Apple ML Research</a></span></div>
+
+<div>
+	
+</div>
+
+<div class="cv-description">Improving the Photos experience by identifying people who matter most to us in situations where previously impossible</div>
+
+<div class="cv-spacer"></div>
+
+<div class="cv-left-date">May 2021 </div>
+<div><a href="https://machinelearning.apple.com/research/mobile-applications-accessible"><b>Making Mobile Applications Accessible with Machine Learning</b></a><span class="appears-on"> on <a href="https://machinelearning.apple.com/">Apple ML Research</a></span></div>
+
+<div>
+	
+</div>
+
+<div class="cv-description">Creating accessibility metadata for mobile applications from pixels</div>
+
+<div class="cv-spacer"></div>
+
+<div class="cv-left-date">October 2020 </div>
+<div><a href="https://parametric.press/issue-02/"><b>Parametric Press, Issue 02: The Climate Issue</b></a></div>
+
+<div>
+	
+		
+			
+				
+Matthew Conlen,	
+			
+		
+			
+				
+Fred Hohman,	
+			
+		
+			
+				
+Sara Stalla,	
+			
+		
+			
+				
+Andrew Sass
+			
+		
+	
+</div>
+
+<div class="cv-description">Interactively analyze our climate’s past, present, and future</div>
+
+<div class="parametric-articles">
+	
+	
+	
+
+	
+		
+		
+			<div>
+    <a href="https://parametric.press/issue-02/carbon-history/"><span class="parametric-article-title">Your Personal Carbon History</span></a>
+
+    by
+
+	
+		
+			
+				
+Aatish Bhatia
+			
+		
+	
+</div>
+
+<div class="cv-description">Why you've lived through a period of unprecedented carbon emissions.</div>
+
+		
+
+		
+			<div class="cv-spacer-medium"></div>
+		
+
+	
+		
+		
+			<div>
+    <a href="https://parametric.press/issue-02/corporations/"><span class="parametric-article-title">The Corporations Behind Climate Change</span></a>
+
+    by
+
+	
+		
+			
+				
+Geoffrey Litt,	
+			
+		
+			
+				
+Seth Thompson
+			
+		
+	
+</div>
+
+<div class="cv-description">Seven simple demands to hold fossil fuel companies accountable.</div>
+
+		
+
+		
+			<div class="cv-spacer-medium"></div>
+		
+
+	
+		
+		
+			<div>
+    <a href="https://parametric.press/issue-02/algae/"><span class="parametric-article-title">Tiny Algae and the Political Theater of Planting One Trillion Trees</span></a>
+
+    by
+
+	
+		
+			
+				
+Benjamin Cooley
+			
+		
+	
+</div>
+
+<div class="cv-description">To fight climate change, it's time to start thinking big by thinking small.</div>
+
+		
+
+		
+			<div class="cv-spacer-medium"></div>
+		
+
+	
+		
+		
+			<div>
+    <a href="https://parametric.press/issue-02/sinking-delta/"><span class="parametric-article-title">Drought of the Sinking Delta</span></a>
+
+    by
+
+	
+		
+			
+				
+Christina Orieschnig
+			
+		
+	
+</div>
+
+<div class="cv-description">Things are out of joint in the delta of the Mekong, Southeast Asia's largest river.</div>
+
+		
+
+		
+			<div class="cv-spacer-medium"></div>
+		
+
+	
+		
+		
+			<div>
+    <a href="https://parametric.press/issue-01/unraveling-the-jpeg/"><span class="parametric-article-title">The Hidden Cost of Digital Consumption</span></a>
+
+    by
+
+	
+		
+			
+				
+Halden Lin,	
+			
+		
+			
+				
+Aishwarya Nirmal,	
+			
+		
+			
+				
+Shobhit Hathi,	
+			
+		
+			
+				
+Lilian Liang
+			
+		
+	
+</div>
+
+<div class="cv-description">Digital doesn't mean green. How much carbon dioxide was released when you loaded this article?</div>
+
+		
+
+		
+
+	
+</div>
+
+<div class="cv-spacer"></div>
+
+<div class="cv-left-date">May 2019 </div>
+<div><a href="https://parametric.press/issue-01/"><b>Parametric Press, Issue 01: Science + Society</b></a></div>
+
+<div>
+	
+		
+			
+				
+Matthew Conlen,	
+			
+		
+			
+				
+Fred Hohman,	
+			
+		
+			
+				
+Sara Stalla,	
+			
+		
+			
+				
+Victoria Uren,	
+			
+		
+			
+				
+Andrew Sass
+			
+		
+	
+</div>
+
+<div class="cv-description">An experimental, born-digital magazine dedicated to showcasing the expository power that’s possible when the audio, visual, and interactive capabilities of dynamic media are effectively combined, <span class="cv-award"><i class="fas fa-star" aria-hidden="true"></i> Top of Hacker News, twice</span></div>
+
+<div class="parametric-articles">
+	
+	
+	
+
+	
+		
+		
+			<div>
+    <a href="https://parametric.press/issue-01/unraveling-the-jpeg/"><span class="parametric-article-title">Unraveling the JPEG</span></a>
+
+    by
+
+	
+		
+			
+				
+Omar Shehata
+			
+		
+	
+</div>
+
+<div class="cv-description">JPEG images are everywhere, but behind them are algorithms that remove details that are imperceptible to the human eye.</div>
+
+		
+
+		
+			<div class="cv-spacer-medium"></div>
+		
+
+	
+		
+		
+			<div>
+    <a href="https://parametric.press/issue-01/the-myth-of-the-impartial-machine/"><span class="parametric-article-title">The Myth of the Impartial Machine</span></a>
+
+    by
+
+	
+		
+			
+				
+Alice Feng,	
+			
+		
+			
+				
+Shuyan Wu
+			
+		
+	
+</div>
+
+<div class="cv-description">Machine learning models reproduce inequalities within data they're fed. Can programmers free their models from prejudice?</div>
+
+		
+
+		
+			<div class="cv-spacer-medium"></div>
+		
+
+	
+		
+		
+			<div>
+    <a href="https://parametric.press/issue-01/data-science-for-fair-housing/"><span class="parametric-article-title">Data Science for Fair Housing</span></a>
+
+    by
+
+	
+		
+			
+				
+Alyson Powell Key
+			
+		
+	
+</div>
+
+<div class="cv-description">In Atlanta, how effective is a new nonprofit's plan to resist displacement by supporting the city's most vulnerable residents?</div>
+
+		
+
+		
+			<div class="cv-spacer-medium"></div>
+		
+
+	
+		
+		
+			<div>
+    <a href="https://parametric.press/issue-01/flatland-follies-an-adjunct-simulator"><span class="parametric-article-title">Flatland Follies: An Adjunct Simulator</span></a>
+
+    by
+
+	
+		
+			
+				
+James McGirk
+			
+		
+	
+</div>
+
+<div class="cv-description">Play your way through the daily struggles of teaching and preserving art at a declining college.</div>
+
+		
+
+		
+			<div class="cv-spacer-medium"></div>
+		
+
+	
+		
+		
+			<div>
+    <a href="https://parametric.press/issue-01/on-particle-physics/"><span class="parametric-article-title">On Particle Physics</span></a>
+
+    by
+
+	
+		
+			
+				
+Riccardo Maria Bianchi
+			
+		
+	
+</div>
+
+<div class="cv-description">A CERN particle physicist walks through the history and science of particle physics, and why you should care about it.</div>
+
+		
+
+		
+			<div class="cv-spacer-medium"></div>
+		
+
+	
+		
+		
+			<div>
+    <a href="https://parametric.press/issue-01/anything-that-flies-on-anything-that-moves/"><span class="parametric-article-title">Anything That Flies, On Anything That Moves</span></a>
+
+    by
+
+	
+		
+			
+				
+Megan Vo
+			
+		
+	
+</div>
+
+<div class="cv-description">Dig into data of over two million bombings during a covert US assault on Southeast Asian countries from the 1960s and 70s.</div>
+
+		
+
+		
+
+	
+</div>
+
+<div class="cv-spacer"></div>
+
+<div class="cv-left-date">November 2018 </div>
+<div><a href="https://idyll.pub/post/blueberry-pancakes-28b1a2e1a8986c44ac091f08"><b>Blueberry Pancakes</b></a></div>
+
+<div>
+	
+		
+			
+				
+Caleb Robinson,	
+			
+		
+			
+				
+Fred Hohman
+			
+		
+	
+</div>
+
+<div class="cv-description">A toy algorithms problem</div>
+
+<div class="cv-spacer"></div>
+
+<div class="cv-left-date">July 2018 </div>
+<div><a href="https://idyll.pub/post/dimensionality-reduction-293e465c2a3443e8941b016d"><b>The Beginner's Guide to Dimensionality Reduction</b></a></div>
+
+<div>
+	
+		
+			
+				
+Matthew Conlen,	
+			
+		
+			
+				
+Fred Hohman
+			
+		
+	
+</div>
+
+<div class="cv-description">Explore the methods data scientists use to visualize high-dimensional data, <span class="cv-award"><i class="fas fa-star" aria-hidden="true"></i> VISxAI Best Paper, Honorable Mention</span></div>
+
+<div class="cv-spacer"></div>
+
+<div class="cv-left-date">June 2018 </div>
+<div><a href="https://fredhohman.com/card-shuffling"><b>The Math of Card Shuffling</b></a></div>
+
+<div>
+	
+		
+			
+				
+Fred Hohman
+			
+		
+	
+</div>
+
+<div class="cv-description">Riffling from factory order to complete randomness, <span class="cv-award"><i class="fas fa-star" aria-hidden="true"></i> Top of Hacker News, twice</span></div>
+
+<div class="cv-spacer"></div>
+
+<div class="cv-left-date">October 2017 </div>
+<div><a href="https://fredhohman.com/a-viz-of-ice-and-fire/"><b>A Viz of Ice and Fire</b></a></div>
+
+<div>
+	
+		
+			
+				
+Fred Hohman,	
+			
+		
+			
+				
+Sandeep Soni,	
+			
+		
+			
+				
+Ian Stewart,	
+			
+		
+			
+				
+John Stasko
+			
+		
+	
+</div>
+
+<div class="cv-description">Exploring and visualizing Game of Thrones using color and dialogue</div>
+
+<div class="cv-spacer"></div>
+
+<!-- ## Technology Skills
+
+
+<p style="margin-bottom: 0.3rem">
+	<strong>OS:</strong>
+	
+	Mac OS X,
+	
+	Ubuntu,
+	
+	Unix Command Line,
+	
+	Windows
+	
+</p>
+
+<p style="margin-bottom: 0.3rem">
+	<strong>Programming:</strong>
+	
+	Python,
+	
+	Matlab,
+	
+	Mathematica,
+	
+	C
+	
+</p>
+
+<p style="margin-bottom: 0.3rem">
+	<strong>Web and Writing:</strong>
+	
+	HTML,
+	
+	CSS,
+	
+	JavaScript,
+	
+	D3,
+	
+	SQL,
+	
+	Bootstrap,
+	
+	LaTeX,
+	
+	Markdown,
+	
+	Jekyll,
+	
+	Git
+	
+</p>
+
+<p style="margin-bottom: 0.3rem">
+	<strong>Graphics:</strong>
+	
+	Affinity Designer,
+	
+	Pixelmator,
+	
+	Matplotlib,
+	
+	Blender,
+	
+	Keynote,
+	
+	Meshlab,
+	
+	MakerBot Desktop
+	
+</p>
+
+<p style="margin-bottom: 0.3rem">
+	<strong>HCI:</strong>
+	
+	Contextual Inquiry,
+	
+	Think-Alouds,
+	
+	User Personas,
+	
+	Rapid Paper Prototyping,
+	
+	Affinity Diagraming
+	
+</p>
+ -->
+
+<h2 id="service">Service</h2>
+
+<div class="cv-service-title"><b>Organizer</b></div>
+
+<div>
+	Workshop on Visualization for AI Explainability
+	(<b>VISxAI</b>) at IEEE VIS
+	
+		
+		<a href="http://visxai.io/">2022</a>,
+		
+	
+		
+		<a href="http://visxai.io/2021">2021</a>,
+		
+	
+		
+		<a href="http://visxai.io/2020">2020</a>,
+		
+	
+		
+		<a href="http://visxai.io/2019">2019</a>
+		
+	
+</div>
+
+<div class="cv-service-title"><b>Program Commitee</b></div>
+
+<div>
+	ACM International Conference on Intelligent User Interfaces
+	(<b>IUI</b>) 
+	
+		
+		<a href="http://iui.acm.org/2022/">2022</a>,
+		
+	
+		
+		<a href="http://iui.acm.org/2021/">2021</a>,
+		
+	
+		
+		<a href="http://iui.acm.org/2012/">2020</a>,
+		
+	
+		
+		<a href="http://iui.acm.org/2019/">2019</a>
+		
+	
+</div>
+
+<div>
+	Debugging Machine Learning Models Workshop
+	(<b>DebugML</b>) at ICLR
+	
+		
+		<a href="https://debug-ml-iclr2019.github.io/">2019</a>
+		
+	
+</div>
+
+<div>
+	Symposium on Visualization in Data Science
+	(<b>VDS</b>) at IEEE VIS
+	
+		
+		<a href="http://www.visualdatascience.org/2018/index.html">2018</a>
+		
+	
+</div>
+
+<div>
+	Workshop on Visualization for AI Explainability
+	(<b>VISxAI</b>) at IEEE VIS
+	
+		
+		<a href="http://visxai.io/2018">2018</a>
+		
+	
+</div>
+
+<div>
+	Workshop on Interactive Data Exploration and Analytics
+	(<b>IDEA</b>) at KDD
+	
+		
+		<a href="http://poloclub.gatech.edu/idea2018/">2018</a>
+		
+	
+</div>
+
+<div class="cv-service-title"><b>Reviewer</b></div>
+
+<div>
+	ACM Conference on Human Factors in Computing Systems
+	(<b>CHI</b>) 
+	
+		
+		<a href="https://chi2022.acm.org/">2022</a>,
+		
+	
+		
+		<a href="https://chi2021.acm.org/">2021</a>,
+		
+	
+		
+		<a href="https://chi2020.acm.org">2020</a>,
+		
+	
+		
+		<a href="https://chi2019.acm.org">2019</a>,
+		
+	
+		
+		<a href="https://chi2018.acm.org">2018</a>,
+		
+	
+		
+		<a href="https://chi2017.acm.org">2017</a>
+		
+	
+</div>
+
+<div>
+	Visualization Meets AI
+	 at PacificVis
+	
+		
+		<a href="https://vismeetsai.github.io/">2022</a>
+		
+	
+</div>
+
+<div>
+	Rethinking ML Papers
+	 at ICLR
+	
+		
+		<a href="https://rethinkingmlpapers.github.io/">2021</a>
+		
+	
+</div>
+
+<div>
+	ACM Designing Interactive Systems
+	(<b>DIS</b>) 
+	
+		
+		<a href="https://dis.acm.org/2021/">2021</a>
+		
+	
+</div>
+
+<div>
+	ACM Transactions on Interactive Intelligent Systems
+	(<b>TIIS</b>) 
+	
+		
+		<a href="https://dl.acm.org/journal/tiis">2021</a>
+		
+	
+</div>
+
+<div>
+	IEEE Pacific Visualization Conference
+	(<b>PacificVis</b>) 
+	
+		
+		<a href="http://vis.tju.edu.cn/pvis2021/">2021</a>
+		
+	
+</div>
+
+<div>
+	IEEE Visualization
+	(<b>VIS</b>) 
+	
+		
+		<a href="http://ieeevis.org/year/2021/welcome">2021</a>,
+		
+	
+		
+		<a href="http://ieeevis.org/year/2020/welcome">2020</a>,
+		
+	
+		
+		<a href="http://ieeevis.org/year/2019/welcome">2019</a>,
+		
+	
+		
+		<a href="http://ieeevis.org/year/2018/welcome">2018</a>,
+		
+	
+		
+		<a href="http://ieeevis.org/year/2017/welcome">2017</a>
+		
+	
+</div>
+
+<div>
+	ACM User Interface Software and Technology Symposium
+	(<b>UIST</b>) 
+	
+		
+		<a href="https://uist.acm.org/uist2021/">2021</a>,
+		
+	
+		
+		<a href="https://uist.acm.org/uist2020/">2020</a>
+		
+	
+</div>
+
+<div>
+	Symposium on Visualization in Data Science
+	(<b>VDS</b>) at IEEE VIS
+	
+		
+		<a href="http://www.visualdatascience.org/2020/">2020</a>,
+		
+	
+		
+		<a href="http://www.visualdatascience.org/2019/">2019</a>,
+		
+	
+		
+		<a href="http://www.visualdatascience.org/2018/">2018</a>
+		
+	
+</div>
+
+<div>
+	Distill Research Journal
+	(<b>Distill</b>) 
+	
+		
+		<a href="https://distill.pub">2019</a>
+		
+	
+</div>
+
+<div>
+	ACM SIGKDD Conference on Knowledge Discovery and Data Mining
+	(<b>KDD</b>) 
+	
+		
+		<a href="https://www.kdd.org/kdd2019/">2019</a>,
+		
+	
+		
+		<a href="https://www.kdd.org/kdd2017/">2017</a>
+		
+	
+</div>
+
+<div>
+	ACM Conference on Computer Supported Cooperative Work and Social Computing
+	(<b>CSCW</b>) 
+	
+		
+		<a href="https://cscw.acm.org/2019/">2019</a>
+		
+	
+</div>
+
+<div>
+	Human-Centered Machine Learning Perspectives Workshop
+	(<b>HCMLP</b>) at CHI
+	
+		
+		<a href="https://gonzoramos.github.io/hcmlperspectives/">2019</a>
+		
+	
+</div>
+
+<div>
+	1st Deep Learning and Security Workshop
+	(<b>DLS</b>) at IEEE SP
+	
+		
+		<a href="https://www.ieee-security.org/TC/SPW2018/DLS/">2018</a>
+		
+	
+</div>
+
+<div>
+	IEEE International Conference on Distributed Computing Systems
+	(<b>ICDCS</b>) 
+	
+		
+		<a href="http://icdcs2017.gatech.edu/">2017</a>
+		
+	
+</div>
+
+<div>
+	SIAM International Conference on Data Mining
+	(<b>SDM</b>) 
+	
+		
+		<a href="https://archive.siam.org/meetings/sdm17/">2017</a>
+		
+	
+</div>
+
+<div class="cv-service-title"><b>Institutional</b></div>
+
+<div>Georgia Tech CSE Graduate Student Association, Vice President, 2018 - 2020</div>
+
+<div>Georgia Tech CSE Chair Search Committee, 2019 - 2020</div>
+
+<div class="cv-service-title"><b>Member</b></div>
+
+<div class="cv-left-date">Present — 2016</div>
+<div>Association for Computing Machinery (<b>ACM</b>)</div>
+
+<div class="cv-left-date">Present — 2016</div>
+<div>Institute of Electrical and Electronics Engineers (<b>IEEE</b>)</div>
+
+<div class="cv-left-date">2012 — 2015</div>
+<div>UGA Mathematics Club </div>
+
+<div class="cv-left-date">2012 — 2013</div>
+<div>Society of Physics Students, UGA Chapter (<b>SPS</b>)</div>
+
+<div class="cv-left-date">2011 — 2015</div>
+<div>National Society of Collegiate Scholars (<b>NSCS</b>)</div>
+
+<h2 id="design">Design</h2>
+
+<div class="cv-left-date">2017 — 2018</div>
+<div><a href="http://poloclub.gatech.edu/idea2018/"><b>IDEA Workshop Proceedings Cover (2017, 2018)</b></a></div>
+<div><i>ACM SIGKDD Workshop on Interactive Data Exploration and Analytics (IDEA)</i></div>
+<div class="cv-description">Designed workshop poster and conference proceedings cover</div>
+<div class="cv-spacer"></div>
+
+<div class="cv-left-date">2017</div>
+<div><a href="http://fredhohman.com/brad-myers-advisee-tree"><b>Brad Myers Advisee Tree</b></a></div>
+<div><i>ACM Conference on Human Factors in Computing Systems (CHI), Denver, USA</i></div>
+<div class="cv-description">Designed and implemented an interactive visualization of Brad Myers's advisee tree shown during his CHI 2017 Lifetime Research Award talk; designed accompanying ribbon worn by attendees at the conference</div>
+<div class="cv-spacer"></div>
+
+<div class="cv-left-date">Aug. 2014</div>
+<div><a href="/projects/cube-decomposition-"><b>3D Printed Cube Decomposition Trophy</b></a></div>
+<div><i>University of Georgia Mathematics Department, Athens, USA</i></div>
+<div class="cv-description">Designed, modeled, and 3D printed cube decomposition trophy for annual UGA High School Math Tournament that was given to the top scoring teams and participants</div>
+<div class="cv-spacer"></div>
+
+<div class="cv-left-date">Aug. 2014</div>
+<div><a href="/projects/uga-keychain"><b>3D Printed UGA Keychain</b></a></div>
+<div><i>University of Georgia Lamar Dodd School of Art, Athens, USA</i></div>
+<div class="cv-description">Created 3D printed UGA keychain and presentation notes given at Experience UGA: a interdisciplinary event that exposes middle-school and high-school students to hands-on learning activities</div>
+<div class="cv-spacer"></div>
+
+<h2 id="references">References</h2>
+
+<div><a href="https://cc.gatech.edu/~dchau/"><b>Dr. Polo Chau</b></a>, Associate Professor</div>
+<div>School of Computational Science and Engineering</div>
+<div><i>Georgia Institute of Technology</i></div>
+<div class="cv-blue-link"><a href="https://cc.gatech.edu/~dchau/">cc.gatech.edu/~dchau/</a></div>
+<div class="cv-spacer"></div>
+
+<div><a href="https://va.gatech.edu/endert"><b>Dr. Alex Endert</b></a>, Associate Professor</div>
+<div>School of Interactive Computing</div>
+<div><i>Georgia Institute of Technology</i></div>
+<div class="cv-blue-link"><a href="https://va.gatech.edu/endert">va.gatech.edu/endert</a></div>
+<div class="cv-spacer"></div>
+
+<div><a href="http://scottdavidoff.com/research"><b>Dr. Scott Davidoff</b></a>, Senior Manager</div>
+<div>Human-Centered Design Group</div>
+<div><i>NASA Jet Propulsion Lab</i></div>
+<div class="cv-blue-link"><a href="http://scottdavidoff.com/research">scottdavidoff.com</a></div>
+<div class="cv-spacer"></div>
+
+<div><a href="https://www.microsoft.com/en-us/research/people/sdrucker/"><b>Dr. Steven Drucker</b></a>, Partner and Research Manager</div>
+<div>Visualization and Interactive Data Analysis Group</div>
+<div><i>Microsoft Research</i></div>
+<div class="cv-blue-link"><a href="https://www.microsoft.com/en-us/research/people/sdrucker/">microsoft.com/en-us/research/people/sdrucker</a></div>
+<div class="cv-spacer"></div>
+
+<div><a href="https://signatures.pnnl.gov/bios/nathan-hodas"><b>Dr. Nathan Hodas</b></a>, Senior Research Scientist</div>
+<div>Data Sciences and Analytics Group</div>
+<div><i>Pacific Northwest National Laboratory</i></div>
+<div class="cv-blue-link"><a href="https://signatures.pnnl.gov/bios/nathan-hodas">signatures.pnnl.gov/bios/nathan-hodas</a></div>
+<div class="cv-spacer"></div>
+
+<!-- 
+## Contact
+
+Fred Hohman  
+`fredhohman@gatech.edu`  
+CODA Tech Square  
+Georgia Tech  
+756 W Peachtree St NW  
+Atlanta, GA 30308
+<span style="background: linear-gradient(0deg, #34495e, #3498db); -webkit-background-clip: text; -webkit-text-fill-color: transparent; display: block">
+—  
+USA  
+Earth  
+Solar System  
+Milky Way  
+Local Group  
+Universe  
+</span> -->
+
+:ET
