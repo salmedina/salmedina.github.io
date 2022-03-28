@@ -3,3 +3,4 @@ papers/*.mp4 filter=lfs diff=lfs merge=lfs -text
 _site/papers/*.mp4 filter=lfs diff=lfs merge=lfs -text
 videos/tongue-anim.mp4 filter=lfs diff=lfs merge=lfs -text
 _site/videos/*.mp4 filter=lfs diff=lfs merge=lfs -text
+_site/videos/tongue-anim.webm filter=lfs diff=lfs merge=lfs -text
