@@ -1,4 +1,4 @@
-I"9<div id="intro-wrapper" class="l-middle">
+I"K<div id="intro-wrapper" class="l-middle">
 	<div id="intro-title-wrapper" class="intro-left">
 		<h1 id="intro-title">Hello, I am Salvdor Medina.</h1>
 		<div id="intro-subtitle">
@@ -12,6 +12,7 @@
 	<div style="height: 1rem"></div>
 	<div class="intro-left">
 		I am currently studying a PhD at Carnegie Mellon University in the Language Technologies Institute under the guidance of Alex Hauptmann.
+		Previously studied a M.Sc. in Computer Science at ITAM in Mexico City. I am a proud PUMA after studying a B.Eng. in Computer Engineering at UNAM.
 	</div>
 	<div style="height: 1rem"></div>
 	<div>
@@ -162,13 +163,17 @@
 					
 
 					
-					<a href="https://drive.google.com/XYZ/paper.pdf">
+					<a href="/papers/Speech_Driven_Tongue_Animation__CVPR_2022.pdf">
 						<i class="fas fa-file-pdf" aria-hidden="true"></i> PDF
 					</a>
 					
 
 					
 
+					
+					<a href="/videos/tongue-anim">
+						<i class="fas fa-film" aria-hidden="true"></i> Video
+					</a>
 					
 
 					
