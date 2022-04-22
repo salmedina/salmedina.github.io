@@ -17,6 +17,7 @@ title: Home
 	<div style="height: 1rem"></div>
 	<div class="intro-left">
 		I am currently studying a PhD at Carnegie Mellon University in the Language Technologies Institute under the guidance of Alex Hauptmann.
+		Previously studied a M.Sc. in Computer Science at ITAM in Mexico City. I am a proud PUMA after studying a B.Eng. in Computer Engineering at UNAM.
 	</div>
 	<div style="height: 1rem"></div>
 	<div>
