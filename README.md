@@ -36,7 +36,7 @@ a zip of the master branch.
 Run :
 
 ```bash
-$ blundle exec jekyll serve
+$ bundler exec jekyll serve
 ```
 
 Jekyll should now be generating your content!
