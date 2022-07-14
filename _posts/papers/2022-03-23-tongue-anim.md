@@ -14,6 +14,7 @@ authors:
     - Iain Matthews
 venue: IEEE/CVF Conference on Computer Vision and Pattern Recognition
 venue-shorthand: CVPR
+award: Best Demo Award
 location: New Orleans, LA, USA
 year: 2022
 code: https://www.github.com/salmedina/SpeechDrivenTongueAnimation
